@@ -1,0 +1,594 @@
+,Id,Movie,Domestic Box Office,Opening Weekend Box Office,Max Theater Count
+0,1,"['Black Panther', 'Walt Disney']","$700,059,566","$202,003,951","4,084"
+1,2,"['Avengers: Infinity War', 'Walt Disney']","$678,815,482","$257,698,183","4,474"
+2,3,"['Incredibles 2', 'Walt Disney']","$608,581,744","$182,687,905","4,413"
+3,4,"['Jurassic World: Fallen Kingdom', 'Universal']","$417,719,760","$148,024,610","4,485"
+4,5,"['Aquaman', 'Warner Bros.']","$335,061,807","$67,873,522","4,184"
+5,6,"['Deadpool 2', '20th Cent…']","$324,591,735","$125,507,153","4,349"
+6,7,"['Dr. Seuss’ The Grinch', 'Universal']","$270,834,950","$67,572,855","4,141"
+7,8,"['Mission: Impossible—Fallout', 'Paramount…']","$220,159,104","$61,236,534","4,395"
+8,9,"['Ant-Man and the Wasp', 'Walt Disney']","$216,648,740","$75,812,205","4,206"
+9,10,"['Bohemian Rhapsody', '20th Cent…']","$216,303,339","$51,061,119","4,000"
+10,11,"['A Star is Born', 'Warner Bros.']","$215,288,866","$42,908,051","3,904"
+11,12,"['Solo: A Star Wars Story', 'Walt Disney']","$213,767,512","$84,420,489","4,381"
+12,13,"['Venom', 'Sony Pict…']","$213,511,408","$80,255,756","4,250"
+13,14,"['Ralph Breaks The Internet', 'Walt Disney']","$201,091,711","$56,237,634","4,017"
+14,15,"['Spider-Man: Into The Spider-Verse 3D', 'Sony Pict…']","$190,173,195","$35,363,376","3,813"
+15,16,"['A Quiet Place', 'Paramount…']","$188,024,361","$50,203,562","3,808"
+16,17,"['Crazy Rich Asians', 'Warner Bros.']","$174,532,921","$26,510,140","3,865"
+17,18,"['Mary Poppins Returns', 'Walt Disney']","$171,958,438","$23,523,121","4,090"
+18,19,"['Hotel Transylvania 3: Summer Vacation', 'Sony Pict…']","$167,500,092","$44,076,225","4,267"
+19,20,"['Fantastic Beasts: The Crimes of Grindelwald', 'Warner Bros.']","$159,555,901","$62,163,104","4,163"
+20,21,"['Halloween', 'Universal']","$159,366,015","$76,221,545","3,990"
+21,22,"['The Meg', 'Warner Bros.']","$145,443,742","$45,402,195","4,118"
+22,23,"['Ocean’s 8', 'Warner Bros.']","$140,218,711","$41,607,378","4,145"
+23,24,"['Ready Player One', 'Warner Bros.']","$137,690,172","$41,769,050","4,234"
+24,25,"['Bumblebee', 'Paramount…']","$127,195,589","$21,654,047","3,597"
+25,26,"['Mamma Mia: Here We Go Again!', 'Universal']","$120,634,935","$34,952,180","3,514"
+26,27,"['The Nun', 'Warner Bros.']","$117,450,119","$53,807,379","3,876"
+27,28,"['Creed II', 'MGM']","$115,715,889","$35,574,710","3,752"
+28,29,"['Peter Rabbit', 'Sony Pict…']","$115,234,093","$25,010,928","3,725"
+29,30,"['The Mule', 'Warner Bros.']","$103,804,407","$17,509,431","3,329"
+30,31,"['The Equalizer 2', 'Sony Pict…']","$102,084,362","$36,011,640","3,388"
+31,32,"['Rampage', 'Warner Bros.']","$101,028,233","$35,753,093","4,115"
+32,33,"['A Wrinkle in Time', 'Walt Disney']","$100,478,608","$33,123,609","3,980"
+33,34,"['Fifty Shades Freed', 'Universal']","$100,407,760","$38,560,195","3,768"
+34,35,"['Christopher Robin', 'Walt Disney']","$99,215,042","$24,585,139","3,602"
+35,36,"['Green Book', 'Universal']","$85,080,171","$320,429","2,648"
+36,37,"['I Can Only Imagine', 'Roadside …']","$83,482,352","$17,108,914","2,894"
+37,38,"['Smallfoot', 'Warner Bros.']","$83,240,103","$23,045,635","4,131"
+38,39,"['Night School', 'Universal']","$77,339,130","$27,257,615","3,019"
+39,40,"['The First Purge', 'Universal']","$69,488,745","$17,374,280","3,038"
+40,41,"['Game Night', 'Warner Bros.']","$69,179,066","$17,005,332","3,502"
+41,42,"['Book Club', 'Paramount…']","$68,566,296","$13,582,231","3,169"
+42,43,"['The House with a Clock in its Walls', 'Universal']","$68,549,695","$26,608,020","3,592"
+43,44,"['Skyscraper', 'Universal']","$68,420,120","$24,905,015","3,822"
+44,45,"['Insidious: The Last Key', 'Universal']","$67,745,330","$29,581,355","3,150"
+45,46,"['Instant Family', 'Paramount…']","$67,363,237","$14,504,315","3,426"
+46,47,"['Blockers', 'Universal']","$60,311,495","$20,556,350","3,418"
+47,48,"['Pacific Rim: Uprising', 'Universal']","$59,874,525","$28,116,535","3,708"
+48,49,"['Tomb Raider', 'Warner Bros.']","$58,250,803","$23,633,317","3,854"
+49,50,"['Maze Runner: The Death Cure', '20th Cent…']","$58,032,443","$24,167,011","3,793"
+50,51,"['The Nutcracker and the Four Realms', 'Walt Disney']","$54,858,851","$20,352,491","3,766"
+51,52,"['Tag', 'Warner Bros.']","$54,730,625","$14,947,396","3,382"
+52,53,"['A Simple Favor', 'Lionsgate']","$53,548,586","$16,011,689","3,102"
+53,54,"['Life of the Party', 'Warner Bros.']","$53,059,911","$17,886,075","3,656"
+54,55,"['The Predator', '20th Cent…']","$51,024,708","$24,632,284","4,070"
+55,56,"['Overboard', 'Lionsgate']","$50,316,123","$14,711,101","2,006"
+56,57,"['Sicario: Day of the Soldado', 'Sony Pict…']","$50,065,850","$19,007,566","3,055"
+57,58,"['BlacKkKlansman', 'Focus Fea…']","$49,275,340","$10,845,330","1,914"
+58,59,"['I Feel Pretty', 'STX Enter…']","$48,795,601","$16,030,218","3,440"
+59,60,"['Vice', 'Annapurna…']","$47,836,282","$7,768,371","2,534"
+60,61,"['Red Sparrow', '20th Cent…']","$46,874,505","$16,853,422","3,064"
+61,62,"['Breaking In', 'Universal']","$46,840,590","$17,630,285","2,537"
+62,63,"['Goosebumps 2: Haunted Halloween', 'Sony Pict…']","$46,697,321","$15,802,225","3,723"
+63,64,"['12 Strong', 'Warner Bros.']","$45,819,713","$15,815,025","3,018"
+64,65,"['Den of Thieves', 'STX Enter…']","$44,947,622","$15,206,108","2,432"
+65,66,"['First Man', 'Universal']","$44,936,545","$16,006,065","3,640"
+66,67,"['Hereditary', 'A24']","$44,069,456","$13,575,173","2,998"
+67,68,"['Acrimony', 'Lionsgate']","$43,549,096","$17,170,707","2,006"
+68,69,"['Sherlock Gnomes', 'Paramount…']","$43,242,871","$10,604,774","3,662"
+69,70,"['Uncle Drew', 'Lionsgate']","$42,469,946","$15,242,781","2,742"
+70,71,"['Widows', '20th Cent…']","$42,402,632","$12,361,307","2,803"
+71,72,"['Truth or Dare', 'Universal']","$41,411,015","$18,667,855","3,068"
+72,73,"['Paddington 2', 'Warner Bros.']","$40,891,591","$11,001,961","3,702"
+73,74,"['Love, Simon', '20th Cent…']","$40,826,341","$11,756,244","2,434"
+74,75,"['Second Act', 'STX Enter…']","$39,282,227","$6,489,983","2,607"
+75,76,"['The Commuter', 'Lionsgate']","$36,343,858","$13,701,452","2,892"
+76,77,"['The 15:17 to Paris', 'Warner Bros.']","$36,276,286","$12,554,286","3,042"
+77,78,"['Mile 22', 'STX Enter…']","$36,108,758","$13,710,825","3,520"
+78,79,"['Alpha', 'Sony Pict…']","$35,851,379","$10,352,512","2,881"
+79,80,"['Peppermint', 'STX Enter…']","$35,418,723","$13,423,255","2,980"
+80,81,"['The Favourite', 'Fox Searc…']","$34,366,783","$422,410","1,554"
+81,82,"['Death Wish', 'MGM']","$34,017,028","$13,010,267","2,882"
+82,83,"['The Spy Who Dumped Me', 'Lionsgate']","$33,562,069","$12,103,043","3,111"
+83,84,"['Annihilation', 'Paramount…']","$32,732,301","$11,071,584","2,112"
+84,85,"['Isle of Dogs', 'Fox Searc…']","$32,015,231","$1,620,294","1,947"
+85,86,"['Nobody’s Fool', 'Paramount…']","$31,713,110","$13,743,111","2,468"
+86,87,"['Adrift', 'STX Enter…']","$31,445,011","$11,603,039","3,015"
+87,88,"['Robin Hood', 'Lionsgate']","$30,824,628","$9,195,670","2,939"
+88,89,"['Super Troopers 2', '20th Cent…']","$30,617,396","$15,181,624","2,125"
+89,90,"['Holmes & Watson', 'Sony Pict…']","$30,568,743","$7,411,522","2,780"
+90,91,"['Slender Man', 'Sony Pict…']","$30,564,825","$11,371,866","2,358"
+91,92,"['Teen Titans Go! To The Movies', 'Warner Bros.']","$29,790,236","$10,411,189","3,188"
+92,93,"['The Hate U Give', '20th Cent…']","$29,719,483","$512,035","2,375"
+93,94,"['Searching', 'Sony Pict…']","$26,015,149","$388,769","2,009"
+94,95,"['Winchester', 'CBS Films']","$25,091,816","$9,307,626","2,480"
+95,96,"['On the Basis of Sex', 'Focus Fea…']","$24,704,837","$686,355","1,957"
+96,97,"['The Strangers: Prey at Night', 'Aviron Pi…']","$24,431,472","$10,402,271","2,464"
+97,98,"['White Boy Rick', 'Sony Pict…']","$24,004,833","$8,860,431","2,504"
+98,99,"['Won’t You Be My Neighbor?', 'Focus Fea…']","$22,835,787","$475,419",893
+99,100,"['Overlord', 'Paramount…']","$21,704,844","$10,202,108","2,859"
+100,101,"['Proud Mary', 'Sony Pict…']","$20,868,638","$9,959,053","2,125"
+101,102,"['The Happytime Murders', 'STX Enter…']","$20,706,452","$9,532,425","3,256"
+102,103,"['Superfly', 'Sony Pict…']","$20,537,137","$6,870,740","2,220"
+103,104,"['They Shall Not Grow Old', 'Warner Bros.']","$17,956,913",,"1,335"
+104,105,"['Bad Times at the El Royale', '20th Cent…']","$17,839,115","$7,132,647","2,808"
+105,106,"['Show Dogs', 'Global Road']","$17,744,685","$6,023,972","3,212"
+106,107,"['Operation Finale', 'MGM']","$17,612,099","$6,022,758","1,818"
+107,108,"['Paul, Apostle of Christ', 'Sony Pict…']","$17,547,999","$5,172,585","1,746"
+108,109,"['Free Solo', 'Greenwich']","$17,541,090","$294,288",533
+109,110,"['Sorry to Bother You', 'Annapurna…']","$17,493,096","$727,266","1,050"
+110,111,"['Chappaquiddick', 'Entertain…']","$17,395,521","$5,765,854","1,645"
+111,112,"['Mary Queen of Scots', 'Focus Fea…']","$16,648,499","$194,777","1,052"
+112,113,"['Forever My Girl', 'Roadside …']","$16,376,066","$4,245,630","1,427"
+113,114,"['Mortal Engines', 'Universal']","$15,951,040","$7,559,850","3,103"
+114,115,"['Hunter Killer', 'Lionsgate']","$15,767,460","$6,653,777","2,720"
+115,116,"['If Beale Street Could Talk', 'Annapurna…']","$14,915,773","$224,476","1,018"
+116,117,"['The Possession of Hannah Grace', 'Sony Pict…']","$14,836,174","$6,401,744","2,298"
+117,118,"['The Girl in the Spider’s Web', 'Sony Pict…']","$14,828,555","$7,810,112","2,929"
+118,119,"['RBG', 'Magnolia …']","$14,051,361","$578,470",878
+119,120,"['Eighth Grade', 'A24']","$13,539,710","$263,797","1,084"
+120,121,"['The Darkest Minds', '20th Cent…']","$12,695,691","$5,842,609","3,127"
+121,122,"['Three Identical Strangers', 'Neon']","$12,320,845","$171,503",433
+122,123,"['Upgrade', 'BH Tilt']","$11,977,130","$4,670,905","1,458"
+123,124,"['Padmavati', 'Paramount…']","$11,846,060","$4,493,384",354
+124,125,"['The Old Man and the Gun', 'Fox Searc…']","$11,277,120","$142,131","1,042"
+125,126,"['Hell Fest', 'CBS Films']","$11,107,431","$5,130,963","2,297"
+126,127,"['Welcome to Marwen', 'Universal']","$10,763,520","$2,354,205","1,911"
+127,128,"['The Miracle Season', 'LD Entert…']","$10,230,620","$3,950,652","1,707"
+128,129,"['The Wife', 'Sony Pict…']","$9,599,982","$108,284",541
+129,130,"['Midnight Sun', 'Global Road']","$9,561,064","$4,003,993","2,173"
+130,131,"['Tully', 'Focus Fea…']","$9,369,755","$3,282,610","1,356"
+131,132,"['Traffik', 'Lionsgate']","$9,186,156","$3,941,338","1,046"
+132,133,"['Unfriended: Dark Web', 'OTL Relea…']","$8,866,745","$3,653,035","1,547"
+133,134,"['Can You Ever Forgive Me?', 'Fox Searc…']","$8,803,865","$161,510",555
+134,135,"['Early Man', 'Lionsgate']","$8,267,544","$3,190,525","2,494"
+135,136,"['The Death of Stalin', 'IFC Films']","$8,047,856","$184,805",554
+136,137,"['Sanju', '20th Cent…']","$7,909,317","$2,723,658",359
+137,138,"['Unsane', 'Bleecker …']","$7,690,044","$3,762,145","2,023"
+138,139,"['Beautiful Boy', 'Amazon St…']","$7,634,767","$218,888","1,052"
+139,140,"['Pandas', 'IMAX Films']","$7,574,012","$158,915",35
+140,141,"['Mid90s', 'A24']","$7,362,439","$258,157","1,206"
+141,142,"['Dog Days', 'LD Entert…']","$6,809,080","$2,554,766","2,442"
+142,143,"['Boy Erased', 'Focus Fea…']","$6,788,692","$207,057",672
+143,144,"['Hotel Artemis', 'Global Road']","$6,708,137","$3,232,790","2,407"
+144,145,"['A.X.L.', 'Global Road']","$6,501,381","$2,798,229","1,710"
+145,146,"['Fahrenheit 11/9', 'Briarclif…']","$6,352,306","$3,008,563","1,719"
+146,147,"['Unbroken: Path to Redemption', 'Pure Flix…']","$6,216,897","$2,238,723","1,620"
+147,148,"['The Hurricane Heist', 'Entertain…']","$6,115,824","$3,024,399","2,402"
+148,149,"['Every Day', 'Orion Pic…']","$6,112,914","$3,016,149","1,669"
+149,150,"['Leave No Trace', 'Bleecker …']","$6,046,104","$219,140",361
+150,151,"['Death of a Nation', 'Quality Flix']","$5,885,881","$2,356,522","1,005"
+151,152,"['God’s Not Dead: A Light in Darkness', 'Pure Flix…']","$5,728,940","$2,689,677","1,693"
+152,153,"['Kin', 'Lionsgate']","$5,718,096","$3,035,618","2,141"
+153,154,"['Stan & Ollie', 'Sony Pict…']","$5,470,235","$78,104",754
+154,155,"['Boku no Hero Academia the Movie', 'FUNimation']","$5,427,591","$1,388,500",515
+155,156,"['Colette', 'Bleecker …']","$5,126,985","$161,179",593
+156,157,"['Simmba', 'Reliance …']","$5,102,129","$1,758,576",301
+157,158,"['Action Point', 'Paramount…']","$5,059,608","$2,390,164","2,032"
+158,159,"['Beirut', 'Bleecker …']","$5,019,226","$1,734,497",755
+159,160,"['Gringo', 'STX Enter…']","$4,969,853","$2,722,420","2,404"
+160,161,"['Samson', 'Pure Flix…']","$4,719,928","$1,942,569","1,249"
+161,162,"['Zimna wojna', 'Amazon St…']","$4,580,048","$54,353",270
+162,163,"['Johnny English Strikes Again', 'Focus Fea…']","$4,412,170","$1,638,895",552
+163,164,"['Blindspotting', 'Lionsgate']","$4,333,394","$338,999",523
+164,165,"['Gotti', 'Vertical …']","$4,286,367","$1,719,902",503
+165,166,"['Ya Veremos', 'Lionsgate']","$4,165,949","$1,807,322",369
+166,167,"['Life Itself', 'Amazon St…']","$4,095,431","$2,123,463","2,609"
+167,168,"['Ben is Back', 'Roadside …']","$3,703,182","$80,733",598
+168,169,"['Gosnell: The Trial of America’s Biggest Serial …', 'GVN Relea…']","$3,679,893","$1,162,988",668
+169,170,"['Indivisible', 'Pure Flix…']","$3,511,417","$1,503,101",830
+170,171,"['2018 Oscar Shorts', 'ShortsHD']","$3,508,777","$695,044",271
+171,172,"['Disobedience', 'Bleecker …']","$3,480,702","$237,393",247
+172,173,"['First Reformed', 'A24']","$3,448,256","$97,562",334
+173,174,"['Juliet, Naked', 'Roadside …']","$3,444,895","$60,886",467
+174,175,"['Bad Samaritan', 'Electric …']","$3,424,744","$1,726,868","2,007"
+175,176,"['Manbiki kazoku', 'Magnolia …']","$3,313,513","$89,264",144
+176,177,"['The Leisure Seeker', 'Sony Pict…']","$3,224,126","$113,708",353
+177,178,"['7 Days in Entebbe', 'Focus Fea…']","$3,189,220","$1,592,645",838
+178,179,"['The Sisters Brothers', 'Annapurna…']","$3,143,056","$115,575","1,141"
+179,180,"['Thoroughbreds', 'Focus Fea…']","$3,072,605","$1,224,430",564
+180,181,"['Sgt. Stubby: An American Hero', 'Fun Acade…']","$3,054,285","$1,164,403","1,633"
+181,182,"['Whitney', 'Roadside …']","$3,026,558","$1,265,572",451
+182,183,"['American Animals', 'The Orchard']","$2,853,526","$134,793",339
+183,184,"['God Bless the Broken Road', 'Freestyle…']","$2,846,258","$1,386,254","1,272"
+184,185,"['La Boda de Valentina', 'Lionsgate']","$2,783,739","$1,147,073",331
+185,186,"['Bharat Ane Nenu', 'Great Ind…']","$2,663,090","$2,663,090",305
+186,187,"['You Were Never Really Here', 'Amazon St…']","$2,523,610","$132,829",233
+187,188,"['Suspiria', 'Amazon St…']","$2,483,472","$184,037",309
+188,189,"['The Rider', 'Sony Pict…']","$2,418,679","$42,244",224
+189,190,"['Meari to majo no hana', 'GKIDS']","$2,418,404","$1,515,939",448
+190,191,"['Hearts Beat Loud', 'Gunpowder…']","$2,386,254","$74,524",170
+191,192,"['Papillon', 'Bleecker …']","$2,335,896","$1,090,073",544
+192,193,"['At Eternity’s Gate', 'CBS Films']","$2,294,917","$92,855",178
+193,194,"['Puzzle', 'Sony Pict…']","$2,031,242","$61,214",265
+194,195,"['Una mujer fantástica', 'Sony Pict…']","$2,019,554","$64,241",190
+195,196,"['Pope Francis—A Man of His Word', 'Focus Fea…']","$2,008,385","$507,870",385
+196,197,"['Assassination Nation', 'Neon']","$2,005,142","$1,050,021","1,403"
+197,198,"['The Front Runner', 'Sony Pict…']","$1,994,179","$51,543",807
+198,199,"['Tang Ren Jie Tan An 2', 'Warner Bros.']","$1,983,984","$704,047",115
+199,200,"['Race 3', 'Yash Raj …']","$1,690,861","$1,690,861",314
+200,201,"['Padman', 'Sony Pict…']","$1,662,927","$740,313",152
+201,202,"['Cafarnaúm', 'Sony Pict…']","$1,660,708","$24,988",136
+202,203,"['A Private War', 'Aviron Pi…']","$1,633,209","$60,491",865
+203,204,"['The Bookshop', 'Greenwich']","$1,588,150","$45,348",136
+204,205,"['Hong Hai Xing Dong', 'Well Go USA']","$1,543,547","$436,059",55
+205,206,"['Destroyer', 'Annapurna…']","$1,533,324","$55,347",235
+206,207,"['Thugs of Hindostan', 'Yash Raj …']","$1,449,848","$1,185,386",377
+207,208,"['Don’t Worry, He Won’t Get Far on Foot', 'Amazon St…']","$1,441,705","$83,339",266
+208,209,"['Finding Your Feet', 'Roadside …']","$1,418,682","$60,132",277
+209,210,"['Little Women', 'Pinnacle …']","$1,379,497","$705,063",643
+210,211,"['102 Not Out', 'Sony Pict…']","$1,339,909","$483,681",102
+211,212,"['Baaghi 2', 'FIP']","$1,319,579","$650,722",124
+212,213,"['Werk ohne Autor', 'Sony Pict…']","$1,303,747",,122
+213,214,"['Maria by Callas', 'Sony Pict…']","$1,264,409","$91,915",149
+214,215,"['McQueen', 'Bleecker …']","$1,257,275","$98,873",95
+215,216,"['The Seagull', 'Sony Pict…']","$1,252,960","$79,016",211
+216,217,"['The Hows of Us', 'ABS-CBN']","$1,246,444","$490,000",80
+217,218,"['Mandy', 'RLJ Enter…']","$1,233,694","$225,723",250
+218,219,"['Beautifully Broken', 'ArtAffects']","$1,209,645","$589,155",651
+219,220,"['Singwa Hamgge: Ingwa Yeon', 'Well Go USA']","$1,200,246","$422,671",47
+220,221,"['Andhadhun', 'Eros Ente…']","$1,193,049","$278,677",62
+221,222,"['Lean on Pete', 'A24']","$1,163,056","$46,975",187
+222,223,"['Wildlife', 'IFC Films']","$1,050,616","$104,589",105
+223,224,"['The Dawn Wall', 'The Orchard']","$1,037,023","$21,615",593
+224,225,"['Raid', 'Eros Ente…']","$1,010,385","$423,817",79
+225,226,"['L’insulte', 'Cohen Med…']","$1,000,038","$24,600",51
+226,227,"['The Miseducation of Cameron Post', 'FilmRise']","$905,111","$48,638",85
+227,228,"['Kedarnath', 'PackYourB…']","$893,582","$407,119",113
+228,229,"['Un beau soleil intérieur', 'Sundance …']","$892,421","$39,699",70
+229,230,"['Nothing Like a Dame', 'IFC Films']","$889,343","$14,777",69
+230,231,"['The Cakemaker', 'Strand']","$874,584","$33,384",34
+231,232,"['Mirai no Mirai', 'GKIDS']","$812,794","$63,325",780
+232,233,"['Beast', 'Roadside …']","$800,365","$53,248",93
+233,234,"['Sui Dhaaga: Made in India', 'Yash Raj …']","$790,628","$581,950",193
+234,235,"['Gräns', 'Neon']","$771,930","$73,700",74
+235,236,"['The Party', 'Roadside …']","$749,827","$37,396",86
+236,237,"['How Long Will I Love U', 'Well Go USA']","$746,933","$204,733",32
+237,238,"['On Chesil Beach', 'Bleecker …']","$745,972","$35,765",203
+238,239,"['Vox Lux', 'Neon']","$727,119","$155,714",325
+239,240,"['The Catcher Was A Spy', 'IFC Films']","$725,223","$114,771",52
+240,241,"['Beoning', 'Well Go USA']","$719,772","$26,130",27
+241,242,"['The Little Stranger', 'Focus Fea…']","$713,143","$401,563",477
+242,243,"['Zhuo yao ji 2', 'Lionsgate']","$706,153","$341,834",69
+243,244,"['Blaze', 'IFC Films']","$704,955","$44,050",87
+244,245,"['Boundaries', 'Sony Pict…']","$701,828","$29,552",224
+245,246,"['Nada a Perder', 'Swen Group']","$679,531","$679,531",69
+246,247,"['Yi Chu Hao Xi', 'Well Go USA']","$670,883","$263,412",40
+247,248,"['Lizzie', 'Roadside …']","$642,157","$47,580",240
+248,249,"['Love, Gilda', 'Magnolia …']","$626,318","$189,639",112
+249,250,"['Itzhak', 'Greenwich']","$618,626","$14,350",35
+250,251,"['Foxtrot', 'Sony Pict…']","$617,972","$31,629",45
+251,252,"['Pick of the Litter', 'IFC Films']","$578,717","$16,519",60
+252,253,"['Nelyubov', 'Sony Pict…']","$564,073","$30,222",59
+253,254,"['Huang Qiang Zou Ban', 'China Lio…']","$551,196","$71,187",36
+254,255,"['Anthropocene: The Human Epoch', 'Mongrel M…']","$546,722",,110
+255,256,"['Anna and the Apocalypse', 'Orion Pic…']","$545,597","$52,588",138
+256,257,"['Uchiage Hanabi, Shita Kara Miru ka? Yoko Kara M…', 'GKIDS']","$525,280","$138,014",510
+257,258,"['Manmarziyaan', 'Eros Ente…']","$506,548","$292,439",99
+258,259,"['Monsters and Men', 'Neon']","$500,101","$118,697",153
+259,260,"['Gongjak', 'CJ Entert…']","$497,755","$43,348",31
+260,261,"['Bilal: A New Breed of Hero', 'Vertical …']","$490,973","$309,951",300
+261,262,"['Ansisung', 'Well Go USA']","$472,166","$123,983",30
+262,263,"['The Happy Prince', 'Sony Pict…']","$464,495",,277
+263,264,"['Scotty and the Secret History of Hollywood', 'Greenwich']","$461,689","$28,144",34
+264,265,"['Final Portrait', 'Sony Pict…']","$460,859","$25,472",100
+265,266,"['The Children Act', 'A24']","$457,803","$18,293",73
+266,267,"['Condorito: La Pelicula', 'Lionsgate']","$447,719","$248,456",153
+267,268,"['Un sac de billes', 'Gaumont B…']","$409,862","$14,420",16
+268,269,"['Yoru Wa Mijikashi Aruke Yo Otome', 'GKIDS']","$406,490","$18,302",415
+269,270,"['The Oath', 'Roadside …']","$401,464","$29,078",300
+270,271,"['We The Animals', 'The Orchard']","$400,746","$63,357",48
+271,272,"['The Gospel According to Andre', 'Magnolia …']","$400,713","$47,802",36
+272,273,"['Leaning into the Wind', 'Magnolia …']","$400,530","$24,840",39
+273,274,"['Soorma', 'Sony Pict…']","$382,104","$168,354",50
+274,275,"['Jane and Emma', 'Excel Ent…']","$380,017","$84,512",29
+275,276,"['Oh Lucy!', 'Film Move…']","$375,393","$14,569",41
+276,277,"['Grace Jones: Bloodlight and Bami', 'Kino Lorber']","$375,208","$56,171",36
+277,278,"['Dokjeon', 'Well Go USA']","$365,639","$146,630",32
+278,279,"['Mountain', 'Greenwich']","$364,429","$6,067",35
+279,280,"['Kusama: Infinity', 'Magnolia …']","$360,931","$30,998",22
+280,281,"['Shine', 'GVN Relea…']","$333,388","$205,842",609
+281,282,"['Flower', 'The Orchard']","$328,188","$48,919",102
+282,283,"['Damsel', 'Magnolia …']","$305,136","$20,291",42
+283,284,"['Huang Jin Xiong Di', 'Well Go USA']","$285,795","$121,391",34
+284,285,"['But Deliver Us From Evil', 'Indican P…']","$285,169","$99,541",247
+285,286,"['Science Fair', 'National …']","$278,350","$11,231",49
+286,287,"['Kings', 'The Orchard']","$274,320","$163,289",214
+287,288,"['The Endless', 'Well Go USA']","$272,020","$9,083",20
+288,289,"['The World Before Your Feet', 'Greenwich']","$268,646","$21,337",11
+289,290,"['Di Ren Jie Zhi Si Da Tian Wang', 'Well Go USA']","$262,963","$126,929",31
+290,291,"['The King', 'Oscillosc…']","$259,291","$29,050",45
+291,292,"['The House That Jack Built', 'IFC Films']","$259,017","$34,273",140
+292,293,"['What They Had', 'Bleecker …']","$257,869","$17,683",53
+293,294,"['Le Vin et le Vent', 'Music Box…']","$257,610","$15,157",18
+294,295,"['London Fields', 'GVN Relea…']","$252,676","$168,575",613
+295,296,"['Generation Wealth', 'Amazon St…']","$237,709","$35,834",45
+296,297,"['Skate Kitchen', 'Magnolia …']","$236,799","$18,605",34
+297,298,"['Meditation Park', '']","$235,849","$19,976",8
+298,299,"['Borg vs McEnroe', 'Neon']","$231,346","$52,625",51
+299,300,"['Matangi/Maya/M.I.A.', 'Abramoram…']","$230,808","$43,573",9
+300,301,"['Mutafukaz', 'GKIDS']","$229,423","$6,094",436
+301,302,"['Seuwingkizeu', 'Well Go USA']","$222,001","$43,952",21
+302,303,"['Dark Money', 'PBS Distr…']","$217,932","$8,100",20
+303,304,"['Getting Grace', 'Hannover …']","$217,812","$103,831",60
+304,305,"['Dong Du Te Gong', 'China Lio…']","$208,351","$62,235",10
+305,306,"['Den Skyldige', 'Magnolia …']","$207,140","$60,050",31
+306,307,"['Keep The Change', 'Kino Lorber']","$202,788","$12,445",13
+307,308,"['Gemini', 'Neon']","$200,340","$31,976",56
+308,309,"['Zama', 'Strand']","$200,181","$26,123",19
+309,310,"['Gauguin - Voyage de Tahiti', 'Cohen Med…']","$200,140",,10
+310,311,"['Studio 54', 'Zeitgeist']","$199,767","$14,909",14
+311,312,"['Little Pink House', 'Dada Films']","$199,069","$68,507",13
+312,313,"['The Final Year', 'Magnolia …']","$191,900","$67,971",39
+313,314,"['Owarani hito Miyazaki: Hayao', 'GKIDS']","$187,320","$10,238",377
+314,315,"['Xi You Ji Nu Er Guo', 'Well Go USA']","$187,074","$95,577",34
+315,316,"['Yao Ling Ling', 'Well Go USA']","$186,135","$79,180",24
+316,317,"['Estiu 1993', 'Oscillosc…']","$185,903","$21,307",19
+317,318,"['Madeline’s Madeline', 'Oscillosc…']","$185,576","$18,009",33
+318,319,"['Karwaan', 'Self Dist…']","$182,009","$98,460",58
+319,320,"['Ni Hao, Zhi Hua', 'China Lio…']","$179,721","$80,485",23
+320,321,"['BuyBust', 'Well Go USA']","$178,471","$77,955",25
+321,322,"['Les gardiennes', 'Music Box…']","$177,331","$7,479",10
+322,323,"['Always at the Carlyle', 'Good Deed…']","$174,251","$9,239",23
+323,324,"['Changgwol', 'Well Go USA']","$167,937","$18,326",29
+324,325,"[""L'amant double"", 'Cohen Med…']","$167,093","$62,995",50
+325,326,"['Boom for Real: The Late Teenage Years of Jean-M…', 'Magnolia …']","$166,616","$22,717",14
+326,327,"['Far From the Tree', 'Sundance …']","$166,018","$19,885",22
+327,328,"['The Last Resort', 'Kino Lorber']","$158,646","$8,280",13
+328,329,"['Batti Gul Meter Chalu', 'Eros Ente…']","$153,847","$153,847",64
+329,330,"['Eating Animals', 'Sundance …']","$149,614","$34,524",25
+330,331,"['Ghost Stories', 'IFC Midnight']","$148,747","$11,972",24
+331,332,"['Bad Reputation', 'Magnolia …']","$148,568","$130,675",196
+332,333,"['Museo', 'YouTube']","$148,505","$16,554",12
+333,334,"['Journey’s End', 'Good Deed…']","$148,275","$12,700",35
+334,335,"['The Great Buster', 'Cohen Med…']","$144,199","$7,107",14
+335,336,"['Support The Girls', 'Magnolia …']","$129,124","$51,167",35
+336,337,"['Le Jeune Karl Marx', 'The Orchard']","$125,659","$26,097",13
+337,338,"['Der Himmel über Berlin', 'Janus Films']","$123,820","$12,885",4
+338,339,"['Love After Love', 'IFC Films']","$121,098","$11,290",29
+339,340,"['Unga Astrid', 'Music Box…']","$120,486","$5,361",16
+340,341,"['Nan Ji Jue Lian', 'China Lio…']","$118,352","$57,713",27
+341,342,"['Bisbee ‘17', '4th Row F…']","$117,470","$6,650",15
+342,343,"['Ryuichi Sakamoto: Coda', 'MUBI']","$117,460","$12,827",9
+343,344,"['‘85 The Greatest Team in Football History', 'Fathom Ev…']","$115,463",,199
+344,345,"['Gonjiam: Haunted Asylum', 'Well Go USA']","$115,252","$19,017",7
+345,346,"['Bodied', 'Independe…']","$113,956","$53,000",17
+346,347,"['Hale County This Morning, This Evening', 'Cinema Guild']","$112,300","$8,640",8
+347,348,"['Yoake tsugeru Rû no uta', 'GKIDS']","$110,168","$60,773",97
+348,349,"['Hyeobsang', 'CJ Entert…']","$109,856","$23,764",13
+349,350,"['El Angel', 'The Orchard']","$109,608","$23,348",11
+350,351,"['Der Hauptmann', 'Music Box…']","$109,226","$7,568",10
+351,352,"['Mary Shelley', 'IFC Films']","$108,900","$12,570",30
+352,353,"['Bar Bahar', 'Film Move…']","$107,977","$5,888",8
+353,354,"['Love, Cecil', 'Zeitgeist']","$106,057","$9,331",8
+354,355,"['Namaste England', 'Eros Ente…']","$104,079","$67,612",71
+355,356,"['Joseon Myungtamjung: Heubhyeolgwimaui Bimil', 'Well Go USA']","$104,012","$30,288",9
+356,357,"['La douleur', 'Music Box…']","$103,770","$11,653",11
+357,358,"['Tian Qi Yu Bao', 'China Lio…']","$103,053","$35,363",21
+358,359,"['Filmworker', 'Kino Lorber']","$102,609","$7,984",17
+359,360,"[""Les Fantômes d'Ismaël"", 'Magnolia …']","$102,510","$19,158",27
+360,361,"['Sungnan Hwangso', 'Well Go USA']","$101,417","$42,133",22
+361,362,"['All About Nina', 'The Orchard']","$100,335","$26,468",54
+362,363,"['Revenge', 'Neon']","$99,197","$45,924",37
+363,364,"['Champion', 'Well Go USA']","$97,470","$17,095",29
+364,365,"['Laissez bronzer les cadavres', 'Kino Lorber']","$93,409","$11,918",13
+365,366,"['Reign of Judges: Title of Liberty', 'Darin Sou…']","$93,224",,14
+366,367,"['L’empire de la perfection', 'Oscillosc…']","$90,964","$7,878",22
+367,368,"['Running for Grace', 'Blue Fox …']","$90,782","$30,597",13
+368,369,"['Sandome no satsujin', 'Film Move…']","$89,315","$10,670",10
+369,370,"['The Price of Everything', 'HBO Docum…']","$87,400","$16,817",8
+370,371,"['Nostalgia', 'Bleecker …']","$86,301","$15,955",140
+371,372,"['Da Shi Xiong', 'Well Go USA']","$85,624","$41,225",25
+372,373,"['Sweet Country', 'Samuel Go…']","$85,556",,7
+373,374,"['Long Xia Xing Jing', 'China Lio…']","$85,172","$35,015",12
+374,375,"['How to Talk to Girls at Parties', 'Mongrel M…']","$84,809",$827,103
+375,376,"[""Jusqu'à la garde"", 'Kino Lorber']","$83,882","$4,947",7
+376,377,"['La caméra de Claire', 'Cinema Guild']","$83,418","$11,489",5
+377,378,"['Le Redoutable', 'Cohen Med…']","$82,264","$10,994",20
+378,379,"['Bel Canto', 'Screen Me…']","$80,134","$12,421",30
+379,380,"['Da Shi Jie', 'Strand']","$79,326","$10,463",15
+380,381,"['En el Séptimo Día', 'Cinema Guild']","$78,270","$12,793",9
+381,382,"['93Queen', 'Abramoram…']","$76,056","$6,302",3
+382,383,"['The Riot Act', 'Hannover …']","$75,506","$28,840",10
+383,384,"['Tehran Taboo', 'Kino Lorber']","$74,758","$4,962",9
+384,385,"['Es war einmal in Deutschland...', 'Film Move…']","$73,730","$4,874",6
+385,386,"['El último Traje', 'Outsider']","$73,548","$27,549",6
+386,387,"['Nico, 1988', 'Magnolia …']","$73,304","$12,309",12
+387,388,"['Helicopter Eela', 'Eros Ente…']","$71,971",,70
+388,389,"['Wastelander', 'Indican P…']","$70,045","$23,078",22
+389,390,"['Parchi', 'Atlas Dis…']","$69,431","$34,437",39
+390,391,"['Outside In', 'The Orchard']","$68,492","$14,136",16
+391,392,"['Chef Flynn', 'Kino Lorber']","$68,407","$29,869",10
+392,393,"['Where Hands Touch', 'Vertical …']","$67,743","$67,743",103
+393,394,"['Undir trénu', 'Magnolia …']","$67,596","$13,617",9
+394,395,"['Monrovia, Indiana', 'Zipporah']","$67,475","$5,172",14
+395,396,"['The Doctor From India', 'Zeitgeist']","$67,136","$2,442",5
+396,397,"['Le Grand Mechant Renard et Autres Contes...', 'GKIDS']","$66,854","$2,402",4
+397,398,"['3100: Run and Become', 'Illumine …']","$65,524",,7
+398,399,"['Beuys', 'Kino Lorber']","$65,410","$9,084",6
+399,400,"['Nancy', 'Samuel Go…']","$64,011","$15,056",11
+400,401,"['The Gardener', 'Gravitas …']","$62,734","$6,298",2
+401,402,"['Never Goin’ Back', 'A24']","$61,271","$10,322",27
+402,403,"['Viper Club', 'Roadside …']","$60,607","$14,180",70
+403,404,"['Where is Kyra?', 'Great Poi…']","$59,717","$6,019",65
+404,405,"['Bomb City', 'Gravitas …']","$59,329",,1
+405,406,"['Westwood: Punk, Icon, Activist', 'Greenwich']","$58,799","$4,450",8
+406,407,"['Horn From the Heart: The Paul Butterfield Story', 'Abramoram…']","$58,597","$3,086",2
+407,408,"['A Kid Like Jake', 'IFC Films']","$58,403","$8,936",13
+408,409,"['Cynthia', 'Indican P…']","$58,090","$34,587",21
+409,410,"['In Search of Greatness', 'Self Dist…']","$58,090","$32,952",16
+410,411,"['Woman Walks Ahead', 'A24']","$57,528","$6,863",6
+411,412,"['Black 47', 'IFC Films']","$57,520","$8,600",100
+412,413,"['Ramen Heads', 'Gunpowder…']","$57,346","$7,085",6
+413,414,"['Django', 'Under the…']","$56,556","$11,722",7
+414,415,"['Il grande silenzio', 'Film Move…']","$53,074","$8,755",6
+415,416,"['Wanda', 'Janus Films']","$52,927","$10,679",8
+416,417,"['Sanpo Suru Shinryakusha', 'Super LTD']","$52,087","$8,370",42
+417,418,"['Garry Winogrand: All Things Are Photographable', 'Greenwich']","$51,194","$9,058",4
+418,419,"['I am Not a Witch', 'Film Move…']","$50,868","$12,191",8
+419,420,"['The China Hustle', 'Magnolia …']","$48,650","$25,791",20
+420,421,"['Bigger', 'Freestyle…']","$46,382","$31,477",61
+421,422,"['Hal', 'Oscillosc…']","$45,889","$5,150",10
+422,423,"['Summer in the Forest', 'Abramoram…']","$45,542","$8,366",6
+423,424,"['Hva vil folk si', 'Kino Lorber']","$44,156","$4,024",4
+424,425,"['Liyana', 'Abramoram…']","$44,045","$5,160",4
+425,426,"['Hitler’s Hollywood', 'Kino Lorber']","$43,766","$8,634",6
+426,427,"['Antonio Lopez 1970: Sex Fashion & Disco', 'Film Move…']","$43,169","$7,167",5
+427,428,"['Western', 'Cinema Guild']","$41,042","$6,688",4
+428,429,"['A Ciambra', 'IFC Films']","$40,483","$6,330",6
+429,430,"['Submission', 'Great Poi…']","$39,985",,39
+430,431,"['Namiya', 'China Lio…']","$39,584","$39,584",21
+431,432,"['Divide and Conquer: The Story of Roger Ailes', 'Magnolia …']","$38,510","$18,833",16
+432,433,"['Humor Me', 'Shout! Fa…']","$38,419","$3,342",5
+433,434,"['Gray Matter', 'Indican P…']","$38,034","$14,064",12
+434,435,"['The Heart of Nuba', 'Abramoram…']","$37,880","$4,016",4
+435,436,"['Golden Exits', 'Sony Pict…']","$37,801","$11,719",11
+436,437,"['Krystal', 'Paladin']","$37,516",,86
+437,438,"['Gui Mi 2', 'Well Go USA']","$37,115","$15,044",4
+438,439,"['Breath', 'FilmRise']","$37,109","$5,258",21
+439,440,"['Le Retour du Héros', 'Distrib F…']","$37,108","$1,393",3
+440,441,"['Rodin', 'Cohen Med…']","$36,720","$3,144",8
+441,442,"['Mind Game', 'GKIDS']","$36,613","$5,609",7
+442,443,"['Bedoune Tarikh, Bedoune Emza', 'Distrib F…']","$36,446","$3,105",10
+443,444,"['The Road Movie', 'Oscillosc…']","$35,757","$17,175",19
+444,445,"['That Summer', 'Sundance …']","$34,556","$5,977",5
+445,446,"['24 Frames: Before and After Lumiere', 'Janus Films']","$34,483","$8,101",2
+446,447,"['Holy Hell', 'Indican P…']","$34,366","$21,504",7
+447,448,"['Ingmar Bergman: Vermächtnis eines Jahrhundertge…', 'Oscillosc…']","$33,275","$6,500",8
+448,449,"['Soller’s Point', 'Oscillosc…']","$32,608","$10,618",4
+449,450,"['Moynihan', 'First Run…']","$31,971","$4,416",2
+450,451,"['As Boas Maneiras', 'Distrib F…']","$31,177","$2,476",13
+451,452,"['Poor Boy', 'Indican P…']","$31,031","$10,920",5
+452,453,"['L’eau froide', 'Janus Films']","$30,209","$5,110",1
+453,454,"['La novia del desierto', 'Strand']","$29,764","$2,127",4
+454,455,"['Charm City', 'PBS Distr…']","$29,335","$10,511",3
+455,456,"['L’apparition', 'Music Box…']","$28,293","$9,830",7
+456,457,"['On Her Shoulders', 'Oscillosc…']","$28,288","$4,374",4
+457,458,"['The Cured', 'IFC Films']","$26,630","$4,875",28
+458,459,"['Milford Graves: Full Mantis', 'Cinema Guild']","$26,443","$7,407",3
+459,460,"['The Charmer', 'Film Move…']","$26,167","$4,128",3
+460,461,"['The Misandrists', 'Cartilage…']","$26,123","$3,278",5
+461,462,"['Ridge Runners', 'Indican P…']","$26,019","$8,015",7
+462,463,"['Jet Trash', 'Indican P…']","$26,002","$4,914",3
+463,464,"['Swimming With Men', 'IFC Films']","$24,888","$10,844",31
+464,465,"['Geu Hu', 'Cinema Guild']","$24,776","$4,474",6
+465,466,"['Life & Nothing More', 'CFI']","$24,358","$6,536",6
+466,467,"['Vazante', 'Music Box…']","$23,884","$3,489",6
+467,468,"['Death House', 'Hannover …']","$23,833","$10,140",7
+468,469,"['The Judge', 'Idle Wild…']","$22,257",,3
+469,470,"['Winning Formula', 'Indican P…']","$22,112","$4,505",5
+470,471,"['Loving Pablo', 'OTL Relea…']","$22,017","$16,564",15
+471,472,"['The Female Brain', 'IFC Films']","$21,786","$6,886",26
+472,473,"['Mes provinciales', 'Kino Lorber']","$21,598","$3,467",2
+473,474,"['Half the Picture', 'Gravitas …']","$21,595","$6,581",1
+474,475,"['Tyrel', 'Magnolia …']","$21,456","$6,059",5
+475,476,"['The Happys', 'Indican P…']","$21,108","$7,707",2
+476,477,"['L’atelier', 'Strand']","$20,590","$2,860",8
+477,478,"['The Devil and Father Amorth', 'The Orchard']","$20,449","$7,814",8
+478,479,"['Apocalypsis', 'Indican P…']","$20,052","$3,945",3
+479,480,"['Acht Stunden sind kein Tag', 'Janus Films']","$19,987","$5,880",1
+480,481,"['L’une chante, l’autre pas', 'Janus Films']","$19,919","$6,700",2
+481,482,"['Active Measures', 'Super LTD']","$19,862","$9,509",2
+482,483,"['Freak Show', 'IFC Films']","$19,696","$4,809",9
+483,484,"['Who We Are Now', 'FilmRise']","$19,128","$5,188",3
+484,485,"['Oolong Courtyard:Kung Fu School', 'China Lio…']","$19,065","$19,065",10
+485,486,"['Anything', 'Paladin']","$19,037","$4,110",27
+486,487,"['Frank and Ava', 'Gravitas …']","$18,829","$3,080",3
+487,488,"['Crime + Punishment', 'IFC Films']","$18,644","$8,787",3
+488,489,"['Madame Hyde', 'Cartilage…']","$18,627","$5,943",2
+489,490,"['306 Hollywood', 'El Tigre …']","$18,399","$8,150",4
+490,491,"['Gabriel e a Montanha', 'Strand']","$17,012","$4,963",2
+491,492,"['Desolation', 'Parade De…']","$16,920","$11,320",2
+492,493,"['Goodland', 'Parade De…']","$16,765",,2
+493,494,"['Narcissister Organ Player', 'Film Move…']","$15,334","$1,983",4
+494,495,"['Sicilian Ghost Story', 'Strand']","$15,285","$4,324",2
+495,496,"['People’s Republic of Desire', 'Tripod Media']","$15,241",,5
+496,497,"['Quand tu liras cette lettre', 'Rialto Pi…']","$15,171","$5,166",2
+497,498,"['A Prayer Before Dawn', 'A24']","$14,453",,13
+498,499,"['Weed the People', 'Abramoram…']","$14,419","$4,279",2
+499,500,"['The Last Movie Star', 'A24']","$14,410","$3,780",5
+500,501,"['The Escape', 'IFC Films']","$14,018",,29
+501,502,"['The Boy Downstairs', 'FilmRise']","$13,638","$5,995",1
+502,503,"['Un Traductor', 'Film Move…']","$13,509","$4,412",2
+503,504,"['Our Blood is Wine', 'Music Box…']","$13,348","$1,540",5
+504,505,"['Here and Now', 'AMBI']","$13,337","$8,090",51
+505,506,"['Tyut pei ba ba', 'China Lio…']","$13,331","$7,950",8
+506,507,"['Like Me', 'Kino Lorber']","$12,965","$5,064",4
+507,508,"['Lou Andreas-Salomé, The Audacity to be Free', 'Cinema Libre']","$12,875","$5,060",2
+508,509,"['American Socialist: The Life & Times of Eugene …', 'First Run…']","$12,610","$2,823",3
+509,510,"['Kinder des Kalifats', 'Kino Lorber']","$12,579",,6
+510,511,"['My Art', 'Film Move…']","$12,554","$5,538",2
+511,512,"['Head Full of Honey', 'Warner Bros.']","$12,350","$8,715",4
+512,513,"['The Most Unknown', 'Abramoram…']","$12,119","$2,905",2
+513,514,"['Minding the Gap', 'Magnolia …']","$11,998","$6,812",5
+514,515,"['The Last Race', 'Magnolia …']","$11,947","$2,437",3
+515,516,"[""Summer '03"", 'Blue Fox …']","$11,746","$4,174",15
+516,517,"['Chez Nous', 'Distrib F…']","$11,568","$2,442",2
+517,518,"['Rendez-vous de juillet', 'Rialto Pi…']","$11,321","$6,080",2
+518,519,"['The Public Image is Rotten', 'Abramoram…']","$11,293","$8,052",1
+519,520,"['Bullitt County', 'Self Dist…']","$11,257","$6,511",9
+520,521,"['The Assassin’s Code', 'Gravitas …']","$11,218","$11,218",12
+521,522,"['The Wedding Party 2: Destination Dubai', 'IronFlix']","$11,140","$4,905",2
+522,523,"['The Samuel Project', 'in8 Relea…']","$11,087","$11,087",2
+523,524,"['Souvenir', 'Strand']","$11,078","$2,267",3
+524,525,"['The Advocates', 'Cinema Libre']","$10,402","$4,355",4
+525,526,"['Hevi reissu', 'Doppelgan…']","$10,153","$5,419",19
+526,527,"['River Runs Red', 'Cinedigm']","$9,893","$6,349",20
+527,528,"['Please Stand By', 'Magnolia …']","$9,868","$4,090",7
+528,529,"['Mama Africa', 'ArtMattan…']","$9,808","$3,495",3
+529,530,"['Kayak to Klemtu', '']","$9,707","$2,022",2
+530,531,"['La quête d’Alain Ducasse', 'Magnolia …']","$9,627","$2,711",5
+531,532,"['Strangers on the Earth', 'First Run…']","$9,518","$3,768",2
+532,533,"['El Mar La Mar', 'Cinema Guild']","$9,065",,1
+533,534,"['Blood Feast', 'Hannover …']","$8,708","$4,046",3
+534,535,"['November', 'Oscillosc…']","$8,620","$4,300",3
+535,536,"['Summer of 67', 'Self Dist…']","$8,492","$5,400",1
+536,537,"['Furlough', 'IFC Films']","$8,472",,
+537,538,"['Lasciati Andare', 'Menemsha …']","$8,128","$8,128",8
+538,539,"['Dark River', 'FilmRise']","$7,714","$4,246",2
+539,540,"['Shan zhong zhuan qi', 'Kino Lorber']","$7,639",,2
+540,541,"['American Chaos', 'Sony Pict…']","$7,616","$7,616",26
+541,542,"['The Lodgers', 'Epic Pict…']","$7,362","$5,053",17
+542,543,"['Aala Kaf Ifrit', 'Oscillosc…']","$7,263",,2
+543,544,"['In Echo Park', 'Indican P…']","$7,072","$4,222",2
+544,545,"['This is Congo', 'Abramoram…']","$7,051","$3,690",2
+545,546,"['In the Land of Pomegranates', 'First Run…']","$7,014","$3,072",1
+546,547,"['Painless', 'Indican P…']","$6,940","$2,958",2
+547,548,"['Duck Butter', 'The Orchard']","$6,877","$2,797",2
+548,549,"['Calling All Earthlings', 'Carpe Stella']","$6,756",,2
+549,550,"['Okujirasama: Futatsu no seigi no monogatari', 'Fine Line']","$6,747",,1
+550,551,"[""L'école buissonnière"", 'Distrib F…']","$6,300",,2
+551,552,"['Spiral', 'Cohen Med…']","$6,279","$3,258",2
+552,553,"['Skjelvet', 'Magnolia …']","$6,235","$3,256",7
+553,554,"['Lemonade', 'Mongrel M…']","$5,979","$1,297",6
+554,555,"['Shoah Four Sisters', 'Cohen Med…']","$5,512","$2,840",3
+555,556,"['Cuban Food Stories', 'First Run…']","$5,434","$3,032",1
+556,557,"['Postcards From London', 'Strand']","$5,312","$2,686",1
+557,558,"['Distant Voices, Still Lives', 'Arrow Rel…']","$5,234","$2,395",1
+558,559,"['In Searching', 'Indican P…']","$5,210","$3,090",2
+559,560,"['Intersection', 'Indican P…']","$5,116","$1,940",2
+560,561,"['The Texture of Falling', 'Self Dist…']","$5,010",$676,1
+561,562,"['The Long Dumb Road', 'Universal']","$4,667","$4,667",1
+562,563,"['Kangaroo', 'Abramoram…']","$4,547","$2,282",2
+563,564,"['Kickboxer: Retaliation', 'Well Go USA']","$4,537","$3,061",10
+564,565,"['Weightless', 'Paladin']","$4,461","$2,515",3
+565,566,"['Stella’s Last Weekend', 'Paladin']","$4,215","$2,375",4
+566,567,"['The Party’s Just Beginning', 'The Orchard']","$4,145","$2,770",10
+567,568,"['The Citizen', 'ArtMattan…']","$3,901",,1
+568,569,"['The Second Time Around', 'First Run…']","$3,837","$1,600",1
+569,570,"['La Familia', 'Film Move…']","$3,696","$2,030",2
+570,571,"['Under the Wire', 'Abramoram…']","$3,429","$2,271",2
+571,572,"['Marvin ou la belle éducation', 'Mongrel M…']","$3,420",,1
+572,573,"['The Cage Fighter', 'IFC Films']","$3,392","$1,204",2
+573,574,"['Over the Limit', 'Film Move…']","$3,243",,2
+574,575,"['Hot to Trot', 'First Run…']","$3,133","$3,133",1
+575,576,"['Nelly', 'Cinema Libre']","$3,046","$1,304",2
+576,577,"['An L.A. Minute', 'Strand']","$2,791","$2,791",3
+577,578,"['Nana', 'First Run…']","$2,784","$1,240",1
+578,579,"['Straight Into a Storm', 'Abramoram…']","$2,684","$1,964",1
+579,580,"['12 jours', 'Distrib F…']","$2,633",$923,2
+580,581,"['ACORN and the Firestorm', 'First Run…']","$2,621","$2,621",1
+581,582,"['Here Comes the Grump', 'Blue Fox …']","$2,150","$1,593",10
+582,583,"['West of the Jordan River', 'Kino Lorber']","$1,926","$1,047",1
+583,584,"['The Lost Village', 'First Run…']","$1,780",$840,1
+584,585,"['El Pacto', 'Sony Pict…']","$1,453","$1,453",10
+585,586,"['That Way Madness Lies', 'First Run…']","$1,447",$579,2
+586,587,"['El Secreto de Marrowbone', 'Magnet Pi…']","$1,377",$624,7
+587,588,"['Beauty & the Beholder', 'Reel One …']","$1,368","$1,352",1
+588,589,"['Invisible Hands', 'First Run…']","$1,034",$456,1
+589,590,"['TVTV: Video Revolutionaries', 'First Run…']",$812,$556,1
+590,591,"['Billionaire Boys Club', 'Vertical …']",$618,$618,10
+591,592,"['Higher Power', 'Magnet Pi…']",$528,$299,3
+592,593,"['Mobile Homes', 'Mongrel M…']",$449,$449,1
