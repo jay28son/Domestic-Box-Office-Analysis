@@ -1,0 +1,592 @@
+Id,Movie,StudioDirty,Studio,Domestic Box Office,Opening Weekend Box Office,Max Theater Count
+1,Black Panther,WaltDisney,Walt Disney,"$700,059,566 ","$202,003,951 ","4,084"
+2,Avengers: Infinity War,WaltDisney,Walt Disney,"$678,815,482 ","$257,698,183 ","4,474"
+3,Incredibles 2,WaltDisney,Walt Disney,"$608,581,744 ","$182,687,905 ","4,413"
+4,Jurassic World: Fallen Kingdom,Universal,Universal Studio,"$417,719,760 ","$148,024,610 ","4,485"
+5,Aquaman,WarnerBros.,Warner Bros.,"$335,061,807 ","$67,873,522 ","4,184"
+6,Deadpool 2,20thCent…,20th Century,"$324,591,735 ","$125,507,153 ","4,349"
+7,Dr. Seuss' The Grinch,Universal,Universal Studio,"$270,834,950 ","$67,572,855 ","4,141"
+8,Mission: Impossible—Fallout,Paramount…,Paramount Pictures,"$220,159,104 ","$61,236,534 ","4,395"
+9,Ant-Man and the Wasp,WaltDisney,Walt Disney,"$216,648,740 ","$75,812,205 ","4,206"
+10,Bohemian Rhapsody,20thCent…,20th Century,"$216,303,339 ","$51,061,119 ","4,000"
+11,A Star is Born,WarnerBros.,Warner Bros.,"$215,288,866 ","$42,908,051 ","3,904"
+12,Solo: A Star Wars Story,WaltDisney,Walt Disney,"$213,767,512 ","$84,420,489 ","4,381"
+13,Venom,SonyPict…,Sony Pictures,"$213,511,408 ","$80,255,756 ","4,250"
+14,Ralph Breaks The Internet,WaltDisney,Walt Disney,"$201,091,711 ","$56,237,634 ","4,017"
+15,Spider-Man: Into The Spider-Verse 3D,SonyPict…,Sony Pictures,"$190,173,195 ","$35,363,376 ","3,813"
+16,A Quiet Place,Paramount…,Paramount Pictures,"$188,024,361 ","$50,203,562 ","3,808"
+17,Crazy Rich Asians,WarnerBros.,Warner Bros.,"$174,532,921 ","$26,510,140 ","3,865"
+18,Mary Poppins Returns,WaltDisney,Walt Disney,"$171,958,438 ","$23,523,121 ","4,090"
+19,Hotel Transylvania 3: Summer Vacation,SonyPict…,Sony Pictures,"$167,500,092 ","$44,076,225 ","4,267"
+20,Fantastic Beasts: The Crimes of Grindelwald,WarnerBros.,Warner Bros.,"$159,555,901 ","$62,163,104 ","4,163"
+21,Halloween,Universal,Universal Studio,"$159,366,015 ","$76,221,545 ","3,990"
+22,The Meg,WarnerBros.,Warner Bros.,"$145,443,742 ","$45,402,195 ","4,118"
+23,Ocean's 8,WarnerBros.,Warner Bros.,"$140,218,711 ","$41,607,378 ","4,145"
+24,Ready Player One,WarnerBros.,Warner Bros.,"$137,690,172 ","$41,769,050 ","4,234"
+25,Bumblebee,Paramount…,Paramount Pictures,"$127,195,589 ","$21,654,047 ","3,597"
+26,Mamma Mia: Here We Go Again!,Universal,Universal Studio,"$120,634,935 ","$34,952,180 ","3,514"
+27,The Nun,WarnerBros.,Warner Bros.,"$117,450,119 ","$53,807,379 ","3,876"
+28,Creed II,MGM,MGM,"$115,715,889 ","$35,574,710 ","3,752"
+29,Peter Rabbit,SonyPict…,Sony Pictures,"$115,234,093 ","$25,010,928 ","3,725"
+30,The Mule,WarnerBros.,Warner Bros.,"$103,804,407 ","$17,509,431 ","3,329"
+31,The Equalizer 2,SonyPict…,Sony Pictures,"$102,084,362 ","$36,011,640 ","3,388"
+32,Rampage,WarnerBros.,Warner Bros.,"$101,028,233 ","$35,753,093 ","4,115"
+33,A Wrinkle in Time,WaltDisney,Walt Disney,"$100,478,608 ","$33,123,609 ","3,980"
+34,Fifty Shades Freed,Universal,Universal Studio,"$100,407,760 ","$38,560,195 ","3,768"
+35,Christopher Robin,WaltDisney,Walt Disney,"$99,215,042 ","$24,585,139 ","3,602"
+36,Green Book,Universal,Universal Studio,"$85,080,171 ","$320,429 ","2,648"
+37,I Can Only Imagine,Roadside…,Roadside Attractions,"$83,482,352 ","$17,108,914 ","2,894"
+38,Smallfoot,WarnerBros.,Warner Bros.,"$83,240,103 ","$23,045,635 ","4,131"
+39,Night School,Universal,Universal Studio,"$77,339,130 ","$27,257,615 ","3,019"
+40,The First Purge,Universal,Universal Studio,"$69,488,745 ","$17,374,280 ","3,038"
+41,Game Night,WarnerBros.,Warner Bros.,"$69,179,066 ","$17,005,332 ","3,502"
+42,Book Club,Paramount…,Paramount Pictures,"$68,566,296 ","$13,582,231 ","3,169"
+43,The House with a Clock in its Walls,Universal,Universal Studio,"$68,549,695 ","$26,608,020 ","3,592"
+44,Skyscraper,Universal,Universal Studio,"$68,420,120 ","$24,905,015 ","3,822"
+45,Insidious: The Last Key,Universal,Universal Studio,"$67,745,330 ","$29,581,355 ","3,150"
+46,Instant Family,Paramount…,Paramount Pictures,"$67,363,237 ","$14,504,315 ","3,426"
+47,Blockers,Universal,Universal Studio,"$60,311,495 ","$20,556,350 ","3,418"
+48,Pacific Rim: Uprising,Universal,Universal Studio,"$59,874,525 ","$28,116,535 ","3,708"
+49,Tomb Raider,WarnerBros.,Warner Bros.,"$58,250,803 ","$23,633,317 ","3,854"
+50,Maze Runner: The Death Cure,20thCent…,20th Century,"$58,032,443 ","$24,167,011 ","3,793"
+51,The Nutcracker and the Four Realms,WaltDisney,Walt Disney,"$54,858,851 ","$20,352,491 ","3,766"
+52,Tag,WarnerBros.,Warner Bros.,"$54,730,625 ","$14,947,396 ","3,382"
+53,A Simple Favor,Lionsgate,Lionsgate,"$53,548,586 ","$16,011,689 ","3,102"
+54,Life of the Party,WarnerBros.,Warner Bros.,"$53,059,911 ","$17,886,075 ","3,656"
+55,The Predator,20thCent…,20th Century,"$51,024,708 ","$24,632,284 ","4,070"
+56,Overboard,Lionsgate,Lionsgate,"$50,316,123 ","$14,711,101 ","2,006"
+57,Sicario: Day of the Soldado,SonyPict…,Sony Pictures,"$50,065,850 ","$19,007,566 ","3,055"
+58,BlacKkKlansman,FocusFea…,Focus Features,"$49,275,340 ","$10,845,330 ","1,914"
+59,I Feel Pretty,STXEnter…,STX Entertainment,"$48,795,601 ","$16,030,218 ","3,440"
+60,Vice,Annapurna…,Annapurna Pictures,"$47,836,282 ","$7,768,371 ","2,534"
+61,Red Sparrow,20thCent…,20th Century,"$46,874,505 ","$16,853,422 ","3,064"
+62,Breaking In,Universal,Universal Studio,"$46,840,590 ","$17,630,285 ","2,537"
+63,Goosebumps 2: Haunted Halloween,SonyPict…,Sony Pictures,"$46,697,321 ","$15,802,225 ","3,723"
+64,12 Strong,WarnerBros.,Warner Bros.,"$45,819,713 ","$15,815,025 ","3,018"
+65,Den of Thieves,STXEnter…,STX Entertainment,"$44,947,622 ","$15,206,108 ","2,432"
+66,First Man,Universal,Universal Studio,"$44,936,545 ","$16,006,065 ","3,640"
+67,Hereditary,A24,A24,"$44,069,456 ","$13,575,173 ","2,998"
+68,Acrimony,Lionsgate,Lionsgate,"$43,549,096 ","$17,170,707 ","2,006"
+69,Sherlock Gnomes,Paramount…,Paramount Pictures,"$43,242,871 ","$10,604,774 ","3,662"
+70,Uncle Drew,Lionsgate,Lionsgate,"$42,469,946 ","$15,242,781 ","2,742"
+71,Widows,20thCent…,20th Century,"$42,402,632 ","$12,361,307 ","2,803"
+72,Truth or Dare,Universal,Universal Studio,"$41,411,015 ","$18,667,855 ","3,068"
+73,Paddington 2,WarnerBros.,Warner Bros.,"$40,891,591 ","$11,001,961 ","3,702"
+74,"Love, Simon",20thCent…,20th Century,"$40,826,341 ","$11,756,244 ","2,434"
+75,Second Act,STXEnter…,STX Entertainment,"$39,282,227 ","$6,489,983 ","2,607"
+76,The Commuter,Lionsgate,Lionsgate,"$36,343,858 ","$13,701,452 ","2,892"
+77,The 15:17 to Paris,WarnerBros.,Warner Bros.,"$36,276,286 ","$12,554,286 ","3,042"
+78,Mile 22,STXEnter…,STX Entertainment,"$36,108,758 ","$13,710,825 ","3,520"
+79,Alpha,SonyPict…,Sony Pictures,"$35,851,379 ","$10,352,512 ","2,881"
+80,Peppermint,STXEnter…,STX Entertainment,"$35,418,723 ","$13,423,255 ","2,980"
+81,The Favourite,FoxSearc…,Fox Searchlight,"$34,366,783 ","$422,410 ","1,554"
+82,Death Wish,MGM,MGM,"$34,017,028 ","$13,010,267 ","2,882"
+83,The Spy Who Dumped Me,Lionsgate,Lionsgate,"$33,562,069 ","$12,103,043 ","3,111"
+84,Annihilation,Paramount…,Paramount Pictures,"$32,732,301 ","$11,071,584 ","2,112"
+85,Isle of Dogs,FoxSearc…,Fox Searchlight,"$32,015,231 ","$1,620,294 ","1,947"
+86,Nobody's Fool,Paramount…,Paramount Pictures,"$31,713,110 ","$13,743,111 ","2,468"
+87,Adrift,STXEnter…,STX Entertainment,"$31,445,011 ","$11,603,039 ","3,015"
+88,Robin Hood,Lionsgate,Lionsgate,"$30,824,628 ","$9,195,670 ","2,939"
+89,Super Troopers 2,20thCent…,20th Century,"$30,617,396 ","$15,181,624 ","2,125"
+90,Holmes & Watson,SonyPict…,Sony Pictures,"$30,568,743 ","$7,411,522 ","2,780"
+91,Slender Man,SonyPict…,Sony Pictures,"$30,564,825 ","$11,371,866 ","2,358"
+92,Teen Titans Go! To The Movies,WarnerBros.,Warner Bros.,"$29,790,236 ","$10,411,189 ","3,188"
+93,The Hate U Give,20thCent…,20th Century,"$29,719,483 ","$512,035 ","2,375"
+94,Searching,SonyPict…,Sony Pictures,"$26,015,149 ","$388,769 ","2,009"
+95,Winchester,CBSFilms,CBS Films,"$25,091,816 ","$9,307,626 ","2,480"
+96,On the Basis of Sex,FocusFea…,Focus Features,"$24,704,837 ","$686,355 ","1,957"
+97,The Strangers: Prey at Night,AvironPi…,Aviron Pictures,"$24,431,472 ","$10,402,271 ","2,464"
+98,White Boy Rick,SonyPict…,Sony Pictures,"$24,004,833 ","$8,860,431 ","2,504"
+99,Won't You Be My Neighbor?,FocusFea…,Focus Features,"$22,835,787 ","$475,419 ",893
+100,Overlord,Paramount…,Paramount Pictures,"$21,704,844 ","$10,202,108 ","2,859"
+101,Proud Mary,SonyPict…,Sony Pictures,"$20,868,638 ","$9,959,053 ","2,125"
+102,The Happytime Murders,STXEnter…,STX Entertainment,"$20,706,452 ","$9,532,425 ","3,256"
+103,Superfly,SonyPict…,Sony Pictures,"$20,537,137 ","$6,870,740 ","2,220"
+104,They Shall Not Grow Old,WarnerBros.,Warner Bros.,"$17,956,913 ",$0 ,"1,335"
+105,Bad Times at the El Royale,20thCent…,20th Century,"$17,839,115 ","$7,132,647 ","2,808"
+106,Show Dogs,GlobalRoad,Global Road,"$17,744,685 ","$6,023,972 ","3,212"
+107,Operation Finale,MGM,MGM,"$17,612,099 ","$6,022,758 ","1,818"
+108,"Paul, Apostle of Christ",SonyPict…,Sony Pictures,"$17,547,999 ","$5,172,585 ","1,746"
+109,Free Solo,Greenwich,Greenwich,"$17,541,090 ","$294,288 ",533
+110,Sorry to Bother You,Annapurna…,Annapurna Pictures,"$17,493,096 ","$727,266 ","1,050"
+111,Chappaquiddick,Entertain…,Entertainment One,"$17,395,521 ","$5,765,854 ","1,645"
+112,Mary Queen of Scots,FocusFea…,Focus Features,"$16,648,499 ","$194,777 ","1,052"
+113,Forever My Girl,Roadside…,Roadside Attractions,"$16,376,066 ","$4,245,630 ","1,427"
+114,Mortal Engines,Universal,Universal Studio,"$15,951,040 ","$7,559,850 ","3,103"
+115,Hunter Killer,Lionsgate,Lionsgate,"$15,767,460 ","$6,653,777 ","2,720"
+116,If Beale Street Could Talk,Annapurna…,Annapurna Pictures,"$14,915,773 ","$224,476 ","1,018"
+117,The Possession of Hannah Grace,SonyPict…,Sony Pictures,"$14,836,174 ","$6,401,744 ","2,298"
+118,The Girl in the Spider's Web,SonyPict…,Sony Pictures,"$14,828,555 ","$7,810,112 ","2,929"
+119,RBG,Magnolia…,Magnolia Pictures,"$14,051,361 ","$578,470 ",878
+120,Eighth Grade,A24,A24,"$13,539,710 ","$263,797 ","1,084"
+121,The Darkest Minds,20thCent…,20th Century,"$12,695,691 ","$5,842,609 ","3,127"
+122,Three Identical Strangers,Neon,Neon,"$12,320,845 ","$171,503 ",433
+123,Upgrade,BHTilt,BH Tilt,"$11,977,130 ","$4,670,905 ","1,458"
+124,Padmavati,Paramount…,Paramount Pictures,"$11,846,060 ","$4,493,384 ",354
+125,The Old Man and the Gun,FoxSearc…,Fox Searchlight,"$11,277,120 ","$142,131 ","1,042"
+126,Hell Fest,CBSFilms,CBS Films,"$11,107,431 ","$5,130,963 ","2,297"
+127,Welcome to Marwen,Universal,Universal Studio,"$10,763,520 ","$2,354,205 ","1,911"
+128,The Miracle Season,LDEntert…,LD Entertainment,"$10,230,620 ","$3,950,652 ","1,707"
+129,The Wife,SonyPict…,Sony Pictures,"$9,599,982 ","$108,284 ",541
+130,Midnight Sun,GlobalRoad,Global Road,"$9,561,064 ","$4,003,993 ","2,173"
+131,Tully,FocusFea…,Focus Features,"$9,369,755 ","$3,282,610 ","1,356"
+132,Traffik,Lionsgate,Lionsgate,"$9,186,156 ","$3,941,338 ","1,046"
+133,Unfriended: Dark Web,OTLRelea…,OTL Releasing,"$8,866,745 ","$3,653,035 ","1,547"
+134,Can You Ever Forgive Me?,FoxSearc…,Fox Searchlight,"$8,803,865 ","$161,510 ",555
+135,Early Man,Lionsgate,Lionsgate,"$8,267,544 ","$3,190,525 ","2,494"
+136,The Death of Stalin,IFCFilms,IFC Films,"$8,047,856 ","$184,805 ",554
+137,Sanju,20thCent…,20th Century,"$7,909,317 ","$2,723,658 ",359
+138,Unsane,Bleecker…,Bleecker Street,"$7,690,044 ","$3,762,145 ","2,023"
+139,Beautiful Boy,AmazonSt…,Amazon Studios,"$7,634,767 ","$218,888 ","1,052"
+140,Pandas,IMAXFilms,IMAX Films,"$7,574,012 ","$158,915 ",35
+141,Mid90s,A24,A24,"$7,362,439 ","$258,157 ","1,206"
+142,Dog Days,LDEntert…,LD Entertainment,"$6,809,080 ","$2,554,766 ","2,442"
+143,Boy Erased,FocusFea…,Focus Features,"$6,788,692 ","$207,057 ",672
+144,Hotel Artemis,GlobalRoad,Global Road,"$6,708,137 ","$3,232,790 ","2,407"
+145,A.X.L.,GlobalRoad,Global Road,"$6,501,381 ","$2,798,229 ","1,710"
+146,Fahrenheit 11/9,Briarclif…,Briarcliff Entertainment,"$6,352,306 ","$3,008,563 ","1,719"
+147,Unbroken: Path to Redemption,PureFlix…,Pure Flix Entertainment,"$6,216,897 ","$2,238,723 ","1,620"
+148,The Hurricane Heist,Entertain…,Entertainment One,"$6,115,824 ","$3,024,399 ","2,402"
+149,Every Day,OrionPic…,Orion Pictures,"$6,112,914 ","$3,016,149 ","1,669"
+150,Leave No Trace,Bleecker…,Bleecker Street,"$6,046,104 ","$219,140 ",361
+151,Death of a Nation,QualityFlix,Quality Flix,"$5,885,881 ","$2,356,522 ","1,005"
+152,God's Not Dead: A Light in Darkness,PureFlix…,Pure Flix Entertainment,"$5,728,940 ","$2,689,677 ","1,693"
+153,Kin,Lionsgate,Lionsgate,"$5,718,096 ","$3,035,618 ","2,141"
+154,Stan & Ollie,SonyPict…,Sony Pictures,"$5,470,235 ","$78,104 ",754
+155,Boku no Hero Academia the Movie,FUNimation,FUNimation,"$5,427,591 ","$1,388,500 ",515
+156,Colette,Bleecker…,Bleecker Street,"$5,126,985 ","$161,179 ",593
+157,Simmba,Reliance…,Reliance Big Pictures,"$5,102,129 ","$1,758,576 ",301
+158,Action Point,Paramount…,Paramount Pictures,"$5,059,608 ","$2,390,164 ","2,032"
+159,Beirut,Bleecker…,Bleecker Street,"$5,019,226 ","$1,734,497 ",755
+160,Gringo,STXEnter…,STX Entertainment,"$4,969,853 ","$2,722,420 ","2,404"
+161,Samson,PureFlix…,Pure Flix Entertainment,"$4,719,928 ","$1,942,569 ","1,249"
+162,Zimna wojna,AmazonSt…,Amazon Studios,"$4,580,048 ","$54,353 ",270
+163,Johnny English Strikes Again,FocusFea…,Focus Features,"$4,412,170 ","$1,638,895 ",552
+164,Blindspotting,Lionsgate,Lionsgate,"$4,333,394 ","$338,999 ",523
+165,Gotti,Vertical…,Vertical Entertainment,"$4,286,367 ","$1,719,902 ",503
+166,Ya Veremos,Lionsgate,Lionsgate,"$4,165,949 ","$1,807,322 ",369
+167,Life Itself,AmazonSt…,Amazon Studios,"$4,095,431 ","$2,123,463 ","2,609"
+168,Ben is Back,Roadside…,Roadside Attractions,"$3,703,182 ","$80,733 ",598
+169,Gosnell: The Trial of America's Biggest Serial …,GVNRelea…,GVN Releasing,"$3,679,893 ","$1,162,988 ",668
+170,Indivisible,PureFlix…,Pure Flix Entertainment,"$3,511,417 ","$1,503,101 ",830
+171,2018 Oscar Shorts,ShortsHD,ShortsHD,"$3,508,777 ","$695,044 ",271
+172,Disobedience,Bleecker…,Bleecker Street,"$3,480,702 ","$237,393 ",247
+173,First Reformed,A24,A24,"$3,448,256 ","$97,562 ",334
+174,"Juliet, Naked",Roadside…,Roadside Attractions,"$3,444,895 ","$60,886 ",467
+175,Bad Samaritan,Electric…,Electric Entertainment,"$3,424,744 ","$1,726,868 ","2,007"
+176,Manbiki kazoku,Magnolia…,Magnolia Pictures,"$3,313,513 ","$89,264 ",144
+177,The Leisure Seeker,SonyPict…,Sony Pictures,"$3,224,126 ","$113,708 ",353
+178,7 Days in Entebbe,FocusFea…,Focus Features,"$3,189,220 ","$1,592,645 ",838
+179,The Sisters Brothers,Annapurna…,Annapurna Pictures,"$3,143,056 ","$115,575 ","1,141"
+180,Thoroughbreds,FocusFea…,Focus Features,"$3,072,605 ","$1,224,430 ",564
+181,Sgt. Stubby: An American Hero,FunAcade…,Fun Academy Motion Pictures,"$3,054,285 ","$1,164,403 ","1,633"
+182,Whitney,Roadside…,Roadside Attractions,"$3,026,558 ","$1,265,572 ",451
+183,American Animals,TheOrchard,The Orchard,"$2,853,526 ","$134,793 ",339
+184,God Bless the Broken Road,Freestyle…,Freestyle Releasing,"$2,846,258 ","$1,386,254 ","1,272"
+185,La Boda de Valentina,Lionsgate,Lionsgate,"$2,783,739 ","$1,147,073 ",331
+186,Bharat Ane Nenu,GreatInd…,Great India Films,"$2,663,090 ","$2,663,090 ",305
+187,You Were Never Really Here,AmazonSt…,Amazon Studios,"$2,523,610 ","$132,829 ",233
+188,Suspiria,AmazonSt…,Amazon Studios,"$2,483,472 ","$184,037 ",309
+189,The Rider,SonyPict…,Sony Pictures,"$2,418,679 ","$42,244 ",224
+190,Meari to majo no hana,GKIDS,GKIDS,"$2,418,404 ","$1,515,939 ",448
+191,Hearts Beat Loud,Gunpowder…,Gunpowder & Sky,"$2,386,254 ","$74,524 ",170
+192,Papillon,Bleecker…,Bleecker Street,"$2,335,896 ","$1,090,073 ",544
+193,At Eternity's Gate,CBSFilms,CBS Films,"$2,294,917 ","$92,855 ",178
+194,Puzzle,SonyPict…,Sony Pictures,"$2,031,242 ","$61,214 ",265
+195,Una mujer fantástica,SonyPict…,Sony Pictures,"$2,019,554 ","$64,241 ",190
+196,Pope Francis—A Man of His Word,FocusFea…,Focus Features,"$2,008,385 ","$507,870 ",385
+197,Assassination Nation,Neon,Neon,"$2,005,142 ","$1,050,021 ","1,403"
+198,The Front Runner,SonyPict…,Sony Pictures,"$1,994,179 ","$51,543 ",807
+199,Tang Ren Jie Tan An 2,WarnerBros.,Warner Bros.,"$1,983,984 ","$704,047 ",115
+200,Race 3,YashRaj…,Yash Raj Films,"$1,690,861 ","$1,690,861 ",314
+201,Padman,SonyPict…,Sony Pictures,"$1,662,927 ","$740,313 ",152
+202,Cafarnaúm,SonyPict…,Sony Pictures,"$1,660,708 ","$24,988 ",136
+203,A Private War,AvironPi…,Aviron Pictures,"$1,633,209 ","$60,491 ",865
+204,The Bookshop,Greenwich,Greenwich,"$1,588,150 ","$45,348 ",136
+205,Hong Hai Xing Dong,WellGoUSA,Well Go USA,"$1,543,547 ","$436,059 ",55
+206,Destroyer,Annapurna…,Annapurna Pictures,"$1,533,324 ","$55,347 ",235
+207,Thugs of Hindostan,YashRaj…,Yash Raj Films,"$1,449,848 ","$1,185,386 ",377
+208,"Don't Worry, He Won't Get Far on Foot",AmazonSt…,Amazon Studios,"$1,441,705 ","$83,339 ",266
+209,Finding Your Feet,Roadside…,Roadside Attractions,"$1,418,682 ","$60,132 ",277
+210,Little Women,Pinnacle…,Pinnacle Peak,"$1,379,497 ","$705,063 ",643
+211,102 Not Out,SonyPict…,Sony Pictures,"$1,339,909 ","$483,681 ",102
+212,Baaghi 2,FIP,FIP,"$1,319,579 ","$650,722 ",124
+213,Werk ohne Autor,SonyPict…,Sony Pictures,"$1,303,747 ",$0 ,122
+214,Maria by Callas,SonyPict…,Sony Pictures,"$1,264,409 ","$91,915 ",149
+215,McQueen,Bleecker…,Bleecker Street,"$1,257,275 ","$98,873 ",95
+216,The Seagull,SonyPict…,Sony Pictures,"$1,252,960 ","$79,016 ",211
+217,The Hows of Us,ABS-CBN,ABS-CBN,"$1,246,444 ","$490,000 ",80
+218,Mandy,RLJEnter…,RLJ Entertainment,"$1,233,694 ","$225,723 ",250
+219,Beautifully Broken,ArtAffects,Art Affects,"$1,209,645 ","$589,155 ",651
+220,Singwa Hamgge: Ingwa Yeon,WellGoUSA,Well Go USA,"$1,200,246 ","$422,671 ",47
+221,Andhadhun,ErosEnte…,Eros Entertainment,"$1,193,049 ","$278,677 ",62
+222,Lean on Pete,A24,A24,"$1,163,056 ","$46,975 ",187
+223,Wildlife,IFCFilms,IFC Films,"$1,050,616 ","$104,589 ",105
+224,The Dawn Wall,TheOrchard,The Orchard,"$1,037,023 ","$21,615 ",593
+225,Raid,ErosEnte…,Eros Entertainment,"$1,010,385 ","$423,817 ",79
+226,L'insulte,CohenMed…,Cohen Media,"$1,000,038 ","$24,600 ",51
+227,The Miseducation of Cameron Post,FilmRise,Film Rise,"$905,111 ","$48,638 ",85
+228,Kedarnath,PackYourB…,PackYourBag Films,"$893,582 ","$407,119 ",113
+229,Un beau soleil intérieur,Sundance…,Sundance Selects,"$892,421 ","$39,699 ",70
+230,Nothing Like a Dame,IFCFilms,IFC Films,"$889,343 ","$14,777 ",69
+231,The Cakemaker,Strand,Strand,"$874,584 ","$33,384 ",34
+232,Mirai no Mirai,GKIDS,GKIDS,"$812,794 ","$63,325 ",780
+233,Beast,Roadside…,Roadside Attractions,"$800,365 ","$53,248 ",93
+234,Sui Dhaaga: Made in India,YashRaj…,Yash Raj Films,"$790,628 ","$581,950 ",193
+235,Gräns,Neon,Neon,"$771,930 ","$73,700 ",74
+236,The Party,Roadside…,Roadside Attractions,"$749,827 ","$37,396 ",86
+237,How Long Will I Love U,WellGoUSA,Well Go USA,"$746,933 ","$204,733 ",32
+238,On Chesil Beach,Bleecker…,Bleecker Street,"$745,972 ","$35,765 ",203
+239,Vox Lux,Neon,Neon,"$727,119 ","$155,714 ",325
+240,The Catcher Was A Spy,IFCFilms,IFC Films,"$725,223 ","$114,771 ",52
+241,Beoning,WellGoUSA,Well Go USA,"$719,772 ","$26,130 ",27
+242,The Little Stranger,FocusFea…,Focus Features,"$713,143 ","$401,563 ",477
+243,Zhuo yao ji 2,Lionsgate,Lionsgate,"$706,153 ","$341,834 ",69
+244,Blaze,IFCFilms,IFC Films,"$704,955 ","$44,050 ",87
+245,Boundaries,SonyPict…,Sony Pictures,"$701,828 ","$29,552 ",224
+246,Nada a Perder,SwenGroup,Swen Group,"$679,531 ","$679,531 ",69
+247,Yi Chu Hao Xi,WellGoUSA,Well Go USA,"$670,883 ","$263,412 ",40
+248,Lizzie,Roadside…,Roadside Attractions,"$642,157 ","$47,580 ",240
+249,"Love, Gilda",Magnolia…,Magnolia Pictures,"$626,318 ","$189,639 ",112
+250,Itzhak,Greenwich,Greenwich,"$618,626 ","$14,350 ",35
+251,Foxtrot,SonyPict…,Sony Pictures,"$617,972 ","$31,629 ",45
+252,Pick of the Litter,IFCFilms,IFC Films,"$578,717 ","$16,519 ",60
+253,Nelyubov,SonyPict…,Sony Pictures,"$564,073 ","$30,222 ",59
+254,Huang Qiang Zou Ban,ChinaLio…,China Lion Film Distribution,"$551,196 ","$71,187 ",36
+255,Anthropocene: The Human Epoch,MongrelM…,Mongrel Media,"$546,722 ",$0 ,110
+256,Anna and the Apocalypse,OrionPic…,Orion Pictures,"$545,597 ","$52,588 ",138
+257,"Uchiage Hanabi, Shita Kara Miru ka? Yoko Kara M…",GKIDS,GKIDS,"$525,280 ","$138,014 ",510
+258,Manmarziyaan,ErosEnte…,Eros Entertainment,"$506,548 ","$292,439 ",99
+259,Monsters and Men,Neon,Neon,"$500,101 ","$118,697 ",153
+260,Gongjak,CJEntert…,CJ Entertainment,"$497,755 ","$43,348 ",31
+261,Bilal: A New Breed of Hero,Vertical…,Vertical Entertainment,"$490,973 ","$309,951 ",300
+262,Ansisung,WellGoUSA,Well Go USA,"$472,166 ","$123,983 ",30
+263,The Happy Prince,SonyPict…,Sony Pictures,"$464,495 ",$0 ,277
+264,Scotty and the Secret History of Hollywood,Greenwich,Greenwich,"$461,689 ","$28,144 ",34
+265,Final Portrait,SonyPict…,Sony Pictures,"$460,859 ","$25,472 ",100
+266,The Children Act,A24,A24,"$457,803 ","$18,293 ",73
+267,Condorito: La Pelicula,Lionsgate,Lionsgate,"$447,719 ","$248,456 ",153
+268,Un sac de billes,GaumontB…,Gaumont British Picture Corporation of America,"$409,862 ","$14,420 ",16
+269,Yoru Wa Mijikashi Aruke Yo Otome,GKIDS,GKIDS,"$406,490 ","$18,302 ",415
+270,The Oath,Roadside…,Roadside Attractions,"$401,464 ","$29,078 ",300
+271,We The Animals,TheOrchard,The Orchard,"$400,746 ","$63,357 ",48
+272,The Gospel According to Andre,Magnolia…,Magnolia Pictures,"$400,713 ","$47,802 ",36
+273,Leaning into the Wind,Magnolia…,Magnolia Pictures,"$400,530 ","$24,840 ",39
+274,Soorma,SonyPict…,Sony Pictures,"$382,104 ","$168,354 ",50
+275,Jane and Emma,ExcelEnt…,Excel Entertainment,"$380,017 ","$84,512 ",29
+276,Oh Lucy!,FilmMove…,Film Movement,"$375,393 ","$14,569 ",41
+277,Grace Jones: Bloodlight and Bami,KinoLorber,Kino Lorber,"$375,208 ","$56,171 ",36
+278,Dokjeon,WellGoUSA,Well Go USA,"$365,639 ","$146,630 ",32
+279,Mountain,Greenwich,Greenwich,"$364,429 ","$6,067 ",35
+280,Kusama: Infinity,Magnolia…,Magnolia Pictures,"$360,931 ","$30,998 ",22
+281,Shine,GVNRelea…,GVN Releasing,"$333,388 ","$205,842 ",609
+282,Flower,TheOrchard,The Orchard,"$328,188 ","$48,919 ",102
+283,Damsel,Magnolia…,Magnolia Pictures,"$305,136 ","$20,291 ",42
+284,Huang Jin Xiong Di,WellGoUSA,Well Go USA,"$285,795 ","$121,391 ",34
+285,But Deliver Us From Evil,IndicanP…,Indican Pictures,"$285,169 ","$99,541 ",247
+286,Science Fair,National…,National Geographic Entertainment,"$278,350 ","$11,231 ",49
+287,Kings,TheOrchard,The Orchard,"$274,320 ","$163,289 ",214
+288,The Endless,WellGoUSA,Well Go USA,"$272,020 ","$9,083 ",20
+289,The World Before Your Feet,Greenwich,Greenwich,"$268,646 ","$21,337 ",11
+290,Di Ren Jie Zhi Si Da Tian Wang,WellGoUSA,Well Go USA,"$262,963 ","$126,929 ",31
+291,The King,Oscillosc…,Oscilloscope Pictures,"$259,291 ","$29,050 ",45
+292,The House That Jack Built,IFCFilms,IFC Films,"$259,017 ","$34,273 ",140
+293,What They Had,Bleecker…,Bleecker Street,"$257,869 ","$17,683 ",53
+294,Le Vin et le Vent,MusicBox…,Music Box Films,"$257,610 ","$15,157 ",18
+295,London Fields,GVNRelea…,GVN Releasing,"$252,676 ","$168,575 ",613
+296,Generation Wealth,AmazonSt…,Amazon Studios,"$237,709 ","$35,834 ",45
+297,Skate Kitchen,Magnolia…,Magnolia Pictures,"$236,799 ","$18,605 ",34
+298,Borg vs McEnroe,Neon,Neon,"$231,346 ","$52,625 ",51
+299,Matangi/Maya/M.I.A.,Abramoram…,Abramorama Films,"$230,808 ","$43,573 ",9
+300,Mutafukaz,GKIDS,GKIDS,"$229,423 ","$6,094 ",436
+301,Seuwingkizeu,WellGoUSA,Well Go USA,"$222,001 ","$43,952 ",21
+302,Dark Money,PBSDistr…,PBS Distribution,"$217,932 ","$8,100 ",20
+303,Getting Grace,Hannover…,Hannover House,"$217,812 ","$103,831 ",60
+304,Dong Du Te Gong,ChinaLio…,China Lion Film Distribution,"$208,351 ","$62,235 ",10
+305,Den Skyldige,Magnolia…,Magnolia Pictures,"$207,140 ","$60,050 ",31
+306,Keep The Change,KinoLorber,Kino Lorber,"$202,788 ","$12,445 ",13
+307,Gemini,Neon,Neon,"$200,340 ","$31,976 ",56
+308,Zama,Strand,Strand,"$200,181 ","$26,123 ",19
+309,Gauguin - Voyage de Tahiti,CohenMed…,Cohen Media,"$200,140 ",$0 ,10
+310,Studio 54,Zeitgeist,Zeitgeist,"$199,767 ","$14,909 ",14
+311,Little Pink House,DadaFilms,Dada Films,"$199,069 ","$68,507 ",13
+312,The Final Year,Magnolia…,Magnolia Pictures,"$191,900 ","$67,971 ",39
+313,Owarani hito Miyazaki: Hayao,GKIDS,GKIDS,"$187,320 ","$10,238 ",377
+314,Xi You Ji Nu Er Guo,WellGoUSA,Well Go USA,"$187,074 ","$95,577 ",34
+315,Yao Ling Ling,WellGoUSA,Well Go USA,"$186,135 ","$79,180 ",24
+316,Estiu 1993,Oscillosc…,Oscilloscope Pictures,"$185,903 ","$21,307 ",19
+317,Madeline's Madeline,Oscillosc…,Oscilloscope Pictures,"$185,576 ","$18,009 ",33
+318,Karwaan,SelfDist…,Self Distributed,"$182,009 ","$98,460 ",58
+319,"Ni Hao, Zhi Hua",ChinaLio…,China Lion Film Distribution,"$179,721 ","$80,485 ",23
+320,BuyBust,WellGoUSA,Well Go USA,"$178,471 ","$77,955 ",25
+321,Les gardiennes,MusicBox…,Music Box Films,"$177,331 ","$7,479 ",10
+322,Always at the Carlyle,GoodDeed…,Good Deed Entertainment,"$174,251 ","$9,239 ",23
+323,Changgwol,WellGoUSA,Well Go USA,"$167,937 ","$18,326 ",29
+324,Lamant double,CohenMed…,Cohen Media,"$167,093 ","$62,995 ",50
+325,Boom for Real: The Late Teenage Years of Jean-M…,Magnolia…,Magnolia Pictures,"$166,616 ","$22,717 ",14
+326,Far From the Tree,Sundance…,Sundance Selects,"$166,018 ","$19,885 ",22
+327,The Last Resort,KinoLorber,Kino Lorber,"$158,646 ","$8,280 ",13
+328,Batti Gul Meter Chalu,ErosEnte…,Eros Entertainment,"$153,847 ","$153,847 ",64
+329,Eating Animals,Sundance…,Sundance Selects,"$149,614 ","$34,524 ",25
+330,Ghost Stories,IFCMidnight,IFC Midnight,"$148,747 ","$11,972 ",24
+331,Bad Reputation,Magnolia…,Magnolia Pictures,"$148,568 ","$130,675 ",196
+332,Museo,YouTube,YouTube,"$148,505 ","$16,554 ",12
+333,Journey's End,GoodDeed…,Good Deed Entertainment,"$148,275 ","$12,700 ",35
+334,The Great Buster,CohenMed…,Cohen Media,"$144,199 ","$7,107 ",14
+335,Support The Girls,Magnolia…,Magnolia Pictures,"$129,124 ","$51,167 ",35
+336,Le Jeune Karl Marx,TheOrchard,The Orchard,"$125,659 ","$26,097 ",13
+337,Der Himmel über Berlin,JanusFilms,Janus Films,"$123,820 ","$12,885 ",4
+338,Love After Love,IFCFilms,IFC Films,"$121,098 ","$11,290 ",29
+339,Unga Astrid,MusicBox…,Music Box Films,"$120,486 ","$5,361 ",16
+340,Nan Ji Jue Lian,ChinaLio…,China Lion Film Distribution,"$118,352 ","$57,713 ",27
+341,Bisbee ‘17,4thRowF…,4th Row Films,"$117,470 ","$6,650 ",15
+342,Ryuichi Sakamoto: Coda,MUBI,MUBI,"$117,460 ","$12,827 ",9
+343,‘85 The Greatest Team in Football History,FathomEv…,Fathom Events,"$115,463 ",$0 ,199
+344,Gonjiam: Haunted Asylum,WellGoUSA,Well Go USA,"$115,252 ","$19,017 ",7
+345,Bodied,Independe…,Independent Indian,"$113,956 ","$53,000 ",17
+346,"Hale County This Morning, This Evening",CinemaGuild,Cinema Guild,"$112,300 ","$8,640 ",8
+347,Yoake tsugeru Rû no uta,GKIDS,GKIDS,"$110,168 ","$60,773 ",97
+348,Hyeobsang,CJEntert…,CJ Entertainment,"$109,856 ","$23,764 ",13
+349,El Angel,TheOrchard,The Orchard,"$109,608 ","$23,348 ",11
+350,Der Hauptmann,MusicBox…,Music Box Films,"$109,226 ","$7,568 ",10
+351,Mary Shelley,IFCFilms,IFC Films,"$108,900 ","$12,570 ",30
+352,Bar Bahar,FilmMove…,Film Movement,"$107,977 ","$5,888 ",8
+353,"Love, Cecil",Zeitgeist,Zeitgeist,"$106,057 ","$9,331 ",8
+354,Namaste England,ErosEnte…,Eros Entertainment,"$104,079 ","$67,612 ",71
+355,Joseon Myungtamjung: Heubhyeolgwimaui Bimil,WellGoUSA,Well Go USA,"$104,012 ","$30,288 ",9
+356,La douleur,MusicBox…,Music Box Films,"$103,770 ","$11,653 ",11
+357,Tian Qi Yu Bao,ChinaLio…,China Lion Film Distribution,"$103,053 ","$35,363 ",21
+358,Filmworker,KinoLorber,Kino Lorber,"$102,609 ","$7,984 ",17
+359,Les Fantômes dIsmaël,Magnolia…,Magnolia Pictures,"$102,510 ","$19,158 ",27
+360,Sungnan Hwangso,WellGoUSA,Well Go USA,"$101,417 ","$42,133 ",22
+361,All About Nina,TheOrchard,The Orchard,"$100,335 ","$26,468 ",54
+362,Revenge,Neon,Neon,"$99,197 ","$45,924 ",37
+363,Champion,WellGoUSA,Well Go USA,"$97,470 ","$17,095 ",29
+364,Laissez bronzer les cadavres,KinoLorber,Kino Lorber,"$93,409 ","$11,918 ",13
+365,Reign of Judges: Title of Liberty,DarinSou…,"Darin Southam Endeavor, Inc.","$93,224 ",$0 ,14
+366,L'empire de la perfection,Oscillosc…,Oscilloscope Pictures,"$90,964 ","$7,878 ",22
+367,Running for Grace,BlueFox…,Blue Fox Entertainment,"$90,782 ","$30,597 ",13
+368,Sandome no satsujin,FilmMove…,Film Movement,"$89,315 ","$10,670 ",10
+369,The Price of Everything,HBODocum…,HBO Documentary,"$87,400 ","$16,817 ",8
+370,Nostalgia,Bleecker…,Bleecker Street,"$86,301 ","$15,955 ",140
+371,Da Shi Xiong,WellGoUSA,Well Go USA,"$85,624 ","$41,225 ",25
+372,Sweet Country,SamuelGo…,Samuel Goldwyn Films,"$85,556 ",$0 ,7
+373,Long Xia Xing Jing,ChinaLio…,China Lion Film Distribution,"$85,172 ","$35,015 ",12
+374,How to Talk to Girls at Parties,MongrelM…,Mongrel Media,"$84,809 ",$827 ,103
+375,Jusquà la garde,KinoLorber,Kino Lorber,"$83,882 ","$4,947 ",7
+376,La caméra de Claire,CinemaGuild,Cinema Guild,"$83,418 ","$11,489 ",5
+377,Le Redoutable,CohenMed…,Cohen Media,"$82,264 ","$10,994 ",20
+378,Bel Canto,ScreenMe…,Screen Media Films,"$80,134 ","$12,421 ",30
+379,Da Shi Jie,Strand,Strand,"$79,326 ","$10,463 ",15
+380,En el Séptimo Día,CinemaGuild,Cinema Guild,"$78,270 ","$12,793 ",9
+381,93Queen,Abramoram…,Abramorama Films,"$76,056 ","$6,302 ",3
+382,The Riot Act,Hannover…,Hannover House,"$75,506 ","$28,840 ",10
+383,Tehran Taboo,KinoLorber,Kino Lorber,"$74,758 ","$4,962 ",9
+384,Es war einmal in Deutschland...,FilmMove…,Film Movement,"$73,730 ","$4,874 ",6
+385,El último Traje,Outsider,Outsider,"$73,548 ","$27,549 ",6
+386,"Nico, 1988",Magnolia…,Magnolia Pictures,"$73,304 ","$12,309 ",12
+387,Helicopter Eela,ErosEnte…,Eros Entertainment,"$71,971 ",$0 ,70
+388,Wastelander,IndicanP…,Indican Pictures,"$70,045 ","$23,078 ",22
+389,Parchi,AtlasDis…,Atlas Distribution,"$69,431 ","$34,437 ",39
+390,Outside In,TheOrchard,The Orchard,"$68,492 ","$14,136 ",16
+391,Chef Flynn,KinoLorber,Kino Lorber,"$68,407 ","$29,869 ",10
+392,Where Hands Touch,Vertical…,Vertical Entertainment,"$67,743 ","$67,743 ",103
+393,Undir trénu,Magnolia…,Magnolia Pictures,"$67,596 ","$13,617 ",9
+394,"Monrovia, Indiana",Zipporah,Zipporah,"$67,475 ","$5,172 ",14
+395,The Doctor From India,Zeitgeist,Zeitgeist,"$67,136 ","$2,442 ",5
+396,Le Grand Mechant Renard et Autres Contes...,GKIDS,GKIDS,"$66,854 ","$2,402 ",4
+397,3100: Run and Become,Illumine…,Illumine Films,"$65,524 ",$0 ,7
+398,Beuys,KinoLorber,Kino Lorber,"$65,410 ","$9,084 ",6
+399,Nancy,SamuelGo…,Samuel Goldwyn Films,"$64,011 ","$15,056 ",11
+400,The Gardener,Gravitas…,Gravitas Venture,"$62,734 ","$6,298 ",2
+401,Never Goin' Back,A24,A24,"$61,271 ","$10,322 ",27
+402,Viper Club,Roadside…,Roadside Attractions,"$60,607 ","$14,180 ",70
+403,Where is Kyra?,GreatPoi…,Great Point Media,"$59,717 ","$6,019 ",65
+404,Bomb City,Gravitas…,Gravitas Venture,"$59,329 ",$0 ,1
+405,"Westwood: Punk, Icon, Activist",Greenwich,Greenwich,"$58,799 ","$4,450 ",8
+406,Horn From the Heart: The Paul Butterfield Story,Abramoram…,Abramorama Films,"$58,597 ","$3,086 ",2
+407,A Kid Like Jake,IFCFilms,IFC Films,"$58,403 ","$8,936 ",13
+408,Cynthia,IndicanP…,Indican Pictures,"$58,090 ","$34,587 ",21
+409,In Search of Greatness,SelfDist…,Self Distributed,"$58,090 ","$32,952 ",16
+410,Woman Walks Ahead,A24,A24,"$57,528 ","$6,863 ",6
+411,Black 47,IFCFilms,IFC Films,"$57,520 ","$8,600 ",100
+412,Ramen Heads,Gunpowder…,Gunpowder & Sky,"$57,346 ","$7,085 ",6
+413,Django,Underthe…,Under the Milk Way,"$56,556 ","$11,722 ",7
+414,Il grande silenzio,FilmMove…,Film Movement,"$53,074 ","$8,755 ",6
+415,Wanda,JanusFilms,Janus Films,"$52,927 ","$10,679 ",8
+416,Sanpo Suru Shinryakusha,SuperLTD,Super LTD,"$52,087 ","$8,370 ",42
+417,Garry Winogrand: All Things Are Photographable,Greenwich,Greenwich,"$51,194 ","$9,058 ",4
+418,I am Not a Witch,FilmMove…,Film Movement,"$50,868 ","$12,191 ",8
+419,The China Hustle,Magnolia…,Magnolia Pictures,"$48,650 ","$25,791 ",20
+420,Bigger,Freestyle…,Freestyle Releasing,"$46,382 ","$31,477 ",61
+421,Hal,Oscillosc…,Oscilloscope Pictures,"$45,889 ","$5,150 ",10
+422,Summer in the Forest,Abramoram…,Abramorama Films,"$45,542 ","$8,366 ",6
+423,Hva vil folk si,KinoLorber,Kino Lorber,"$44,156 ","$4,024 ",4
+424,Liyana,Abramoram…,Abramorama Films,"$44,045 ","$5,160 ",4
+425,Hitler's Hollywood,KinoLorber,Kino Lorber,"$43,766 ","$8,634 ",6
+426,Antonio Lopez 1970: Sex Fashion & Disco,FilmMove…,Film Movement,"$43,169 ","$7,167 ",5
+427,Western,CinemaGuild,Cinema Guild,"$41,042 ","$6,688 ",4
+428,A Ciambra,IFCFilms,IFC Films,"$40,483 ","$6,330 ",6
+429,Submission,GreatPoi…,Great Point Media,"$39,985 ",$0 ,39
+430,Namiya,ChinaLio…,China Lion Film Distribution,"$39,584 ","$39,584 ",21
+431,Divide and Conquer: The Story of Roger Ailes,Magnolia…,Magnolia Pictures,"$38,510 ","$18,833 ",16
+432,Humor Me,Shout!Fa…,Shout! Factory,"$38,419 ","$3,342 ",5
+433,Gray Matter,IndicanP…,Indican Pictures,"$38,034 ","$14,064 ",12
+434,The Heart of Nuba,Abramoram…,Abramorama Films,"$37,880 ","$4,016 ",4
+435,Golden Exits,SonyPict…,Sony Pictures,"$37,801 ","$11,719 ",11
+436,Krystal,Paladin,Paladin,"$37,516 ",$0 ,86
+437,Gui Mi 2,WellGoUSA,Well Go USA,"$37,115 ","$15,044 ",4
+438,Breath,FilmRise,Film Rise,"$37,109 ","$5,258 ",21
+439,Le Retour du Héros,DistribF…,Distrib Films,"$37,108 ","$1,393 ",3
+440,Rodin,CohenMed…,Cohen Media,"$36,720 ","$3,144 ",8
+441,Mind Game,GKIDS,GKIDS,"$36,613 ","$5,609 ",7
+442,"Bedoune Tarikh, Bedoune Emza",DistribF…,Distrib Films,"$36,446 ","$3,105 ",10
+443,The Road Movie,Oscillosc…,Oscilloscope Pictures,"$35,757 ","$17,175 ",19
+444,That Summer,Sundance…,Sundance Selects,"$34,556 ","$5,977 ",5
+445,24 Frames: Before and After Lumiere,JanusFilms,Janus Films,"$34,483 ","$8,101 ",2
+446,Holy Hell,IndicanP…,Indican Pictures,"$34,366 ","$21,504 ",7
+447,Ingmar Bergman: Vermächtnis eines Jahrhundertge…,Oscillosc…,Oscilloscope Pictures,"$33,275 ","$6,500 ",8
+448,Soller's Point,Oscillosc…,Oscilloscope Pictures,"$32,608 ","$10,618 ",4
+449,Moynihan,FirstRun…,First Run Features,"$31,971 ","$4,416 ",2
+450,As Boas Maneiras,DistribF…,Distrib Films,"$31,177 ","$2,476 ",13
+451,Poor Boy,IndicanP…,Indican Pictures,"$31,031 ","$10,920 ",5
+452,L'eau froide,JanusFilms,Janus Films,"$30,209 ","$5,110 ",1
+453,La novia del desierto,Strand,Strand,"$29,764 ","$2,127 ",4
+454,Charm City,PBSDistr…,PBS Distribution,"$29,335 ","$10,511 ",3
+455,L'apparition,MusicBox…,Music Box Films,"$28,293 ","$9,830 ",7
+456,On Her Shoulders,Oscillosc…,Oscilloscope Pictures,"$28,288 ","$4,374 ",4
+457,The Cured,IFCFilms,IFC Films,"$26,630 ","$4,875 ",28
+458,Milford Graves: Full Mantis,CinemaGuild,Cinema Guild,"$26,443 ","$7,407 ",3
+459,The Charmer,FilmMove…,Film Movement,"$26,167 ","$4,128 ",3
+460,The Misandrists,Cartilage…,Cartilage Films,"$26,123 ","$3,278 ",5
+461,Ridge Runners,IndicanP…,Indican Pictures,"$26,019 ","$8,015 ",7
+462,Jet Trash,IndicanP…,Indican Pictures,"$26,002 ","$4,914 ",3
+463,Swimming With Men,IFCFilms,IFC Films,"$24,888 ","$10,844 ",31
+464,Geu Hu,CinemaGuild,Cinema Guild,"$24,776 ","$4,474 ",6
+465,Life & Nothing More,CFI,CFI,"$24,358 ","$6,536 ",6
+466,Vazante,MusicBox…,Music Box Films,"$23,884 ","$3,489 ",6
+467,Death House,Hannover…,Hannover House,"$23,833 ","$10,140 ",7
+468,The Judge,IdleWild…,Idle Wild Films,"$22,257 ",$0 ,3
+469,Winning Formula,IndicanP…,Indican Pictures,"$22,112 ","$4,505 ",5
+470,Loving Pablo,OTLRelea…,OTL Releasing,"$22,017 ","$16,564 ",15
+471,The Female Brain,IFCFilms,IFC Films,"$21,786 ","$6,886 ",26
+472,Mes provinciales,KinoLorber,Kino Lorber,"$21,598 ","$3,467 ",2
+473,Half the Picture,Gravitas…,Gravitas Venture,"$21,595 ","$6,581 ",1
+474,Tyrel,Magnolia…,Magnolia Pictures,"$21,456 ","$6,059 ",5
+475,The Happys,IndicanP…,Indican Pictures,"$21,108 ","$7,707 ",2
+476,L'atelier,Strand,Strand,"$20,590 ","$2,860 ",8
+477,The Devil and Father Amorth,TheOrchard,The Orchard,"$20,449 ","$7,814 ",8
+478,Apocalypsis,IndicanP…,Indican Pictures,"$20,052 ","$3,945 ",3
+479,Acht Stunden sind kein Tag,JanusFilms,Janus Films,"$19,987 ","$5,880 ",1
+480,"L'une chante, l'autre pas",JanusFilms,Janus Films,"$19,919 ","$6,700 ",2
+481,Active Measures,SuperLTD,Super LTD,"$19,862 ","$9,509 ",2
+482,Freak Show,IFCFilms,IFC Films,"$19,696 ","$4,809 ",9
+483,Who We Are Now,FilmRise,Film Rise,"$19,128 ","$5,188 ",3
+484,Oolong Courtyard:Kung Fu School,ChinaLio…,China Lion Film Distribution,"$19,065 ","$19,065 ",10
+485,Anything,Paladin,Paladin,"$19,037 ","$4,110 ",27
+486,Frank and Ava,Gravitas…,Gravitas Venture,"$18,829 ","$3,080 ",3
+487,Crime + Punishment,IFCFilms,IFC Films,"$18,644 ","$8,787 ",3
+488,Madame Hyde,Cartilage…,Cartilage Films,"$18,627 ","$5,943 ",2
+489,306 Hollywood,ElTigre…,El Tigre Productions,"$18,399 ","$8,150 ",4
+490,Gabriel e a Montanha,Strand,Strand,"$17,012 ","$4,963 ",2
+491,Desolation,ParadeDe…,Parade Deck Films,"$16,920 ","$11,320 ",2
+492,Goodland,ParadeDe…,Parade Deck Films,"$16,765 ",$0 ,2
+493,Narcissister Organ Player,FilmMove…,Film Movement,"$15,334 ","$1,983 ",4
+494,Sicilian Ghost Story,Strand,Strand,"$15,285 ","$4,324 ",2
+495,People's Republic of Desire,TripodMedia,Tripod Media,"$15,241 ",$0 ,5
+496,Quand tu liras cette lettre,RialtoPi…,Rialto Pictures,"$15,171 ","$5,166 ",2
+497,A Prayer Before Dawn,A24,A24,"$14,453 ",$0 ,13
+498,Weed the People,Abramoram…,Abramorama Films,"$14,419 ","$4,279 ",2
+499,The Last Movie Star,A24,A24,"$14,410 ","$3,780 ",5
+500,The Escape,IFCFilms,IFC Films,"$14,018 ",$0 ,29
+501,The Boy Downstairs,FilmRise,Film Rise,"$13,638 ","$5,995 ",1
+502,Un Traductor,FilmMove…,Film Movement,"$13,509 ","$4,412 ",2
+503,Our Blood is Wine,MusicBox…,Music Box Films,"$13,348 ","$1,540 ",5
+504,Here and Now,AMBI,AMBI,"$13,337 ","$8,090 ",51
+505,Tyut pei ba ba,ChinaLio…,China Lion Film Distribution,"$13,331 ","$7,950 ",8
+506,Like Me,KinoLorber,Kino Lorber,"$12,965 ","$5,064 ",4
+507,"Lou Andreas-Salomé, The Audacity to be Free",CinemaLibre,Cinema Libre,"$12,875 ","$5,060 ",2
+508,American Socialist: The Life & Times of Eugene …,FirstRun…,First Run Features,"$12,610 ","$2,823 ",3
+509,Kinder des Kalifats,KinoLorber,Kino Lorber,"$12,579 ",$0 ,6
+510,My Art,FilmMove…,Film Movement,"$12,554 ","$5,538 ",2
+511,Head Full of Honey,WarnerBros.,Warner Bros.,"$12,350 ","$8,715 ",4
+512,The Most Unknown,Abramoram…,Abramorama Films,"$12,119 ","$2,905 ",2
+513,Minding the Gap,Magnolia…,Magnolia Pictures,"$11,998 ","$6,812 ",5
+514,The Last Race,Magnolia…,Magnolia Pictures,"$11,947 ","$2,437 ",3
+515,Summer 03,BlueFox…,Blue Fox Entertainment,"$11,746 ","$4,174 ",15
+516,Chez Nous,DistribF…,Distrib Films,"$11,568 ","$2,442 ",2
+517,Rendez-vous de juillet,RialtoPi…,Rialto Pictures,"$11,321 ","$6,080 ",2
+518,The Public Image is Rotten,Abramoram…,Abramorama Films,"$11,293 ","$8,052 ",1
+519,Bullitt County,SelfDist…,Self Distributed,"$11,257 ","$6,511 ",9
+520,The Assassin's Code,Gravitas…,Gravitas Venture,"$11,218 ","$11,218 ",12
+521,The Wedding Party 2: Destination Dubai,IronFlix,Iron Flix,"$11,140 ","$4,905 ",2
+522,The Samuel Project,in8Relea…,in8 Releasing,"$11,087 ","$11,087 ",2
+523,Souvenir,Strand,Strand,"$11,078 ","$2,267 ",3
+524,The Advocates,CinemaLibre,Cinema Libre,"$10,402 ","$4,355 ",4
+525,Hevi reissu,Doppelgan…,Doppelganger Releasing,"$10,153 ","$5,419 ",19
+526,River Runs Red,Cinedigm,Cinedigm,"$9,893 ","$6,349 ",20
+527,Please Stand By,Magnolia…,Magnolia Pictures,"$9,868 ","$4,090 ",7
+528,Mama Africa,ArtMattan…,Art Mattan Films,"$9,808 ","$3,495 ",3
+529,La quête d'Alain Ducasse,Magnolia…,Magnolia Pictures,"$9,627 ","$2,711 ",5
+530,Strangers on the Earth,FirstRun…,First Run Features,"$9,518 ","$3,768 ",2
+531,El Mar La Mar,CinemaGuild,Cinema Guild,"$9,065 ",$0 ,1
+532,Blood Feast,Hannover…,Hannover House,"$8,708 ","$4,046 ",3
+533,November,Oscillosc…,Oscilloscope Pictures,"$8,620 ","$4,300 ",3
+534,Summer of 67,SelfDist…,Self Distributed,"$8,492 ","$5,400 ",1
+535,Furlough,IFCFilms,IFC Films,"$8,472 ",$0 ,0
+536,Lasciati Andare,Menemsha…,Menemsha Entertainment,"$8,128 ","$8,128 ",8
+537,Dark River,FilmRise,Film Rise,"$7,714 ","$4,246 ",2
+538,Shan zhong zhuan qi,KinoLorber,Kino Lorber,"$7,639 ",$0 ,2
+539,American Chaos,SonyPict…,Sony Pictures,"$7,616 ","$7,616 ",26
+540,The Lodgers,EpicPict…,Epic Pictures Group,"$7,362 ","$5,053 ",17
+541,Aala Kaf Ifrit,Oscillosc…,Oscilloscope Pictures,"$7,263 ",$0 ,2
+542,In Echo Park,IndicanP…,Indican Pictures,"$7,072 ","$4,222 ",2
+543,This is Congo,Abramoram…,Abramorama Films,"$7,051 ","$3,690 ",2
+544,In the Land of Pomegranates,FirstRun…,First Run Features,"$7,014 ","$3,072 ",1
+545,Painless,IndicanP…,Indican Pictures,"$6,940 ","$2,958 ",2
+546,Duck Butter,TheOrchard,The Orchard,"$6,877 ","$2,797 ",2
+547,Calling All Earthlings,CarpeStella,Carpe Stella,"$6,756 ",$0 ,2
+548,Okujirasama: Futatsu no seigi no monogatari,FineLine,Fine Line,"$6,747 ",$0 ,1
+549,Lécole buissonnière,DistribF…,Distrib Films,"$6,300 ",$0 ,2
+550,Spiral,CohenMed…,Cohen Media,"$6,279 ","$3,258 ",2
+551,Skjelvet,Magnolia…,Magnolia Pictures,"$6,235 ","$3,256 ",7
+552,Lemonade,MongrelM…,Mongrel Media,"$5,979 ","$1,297 ",6
+553,Shoah Four Sisters,CohenMed…,Cohen Media,"$5,512 ","$2,840 ",3
+554,Cuban Food Stories,FirstRun…,First Run Features,"$5,434 ","$3,032 ",1
+555,Postcards From London,Strand,Strand,"$5,312 ","$2,686 ",1
+556,"Distant Voices, Still Lives",ArrowRel…,Arrow Releasing,"$5,234 ","$2,395 ",1
+557,In Searching,IndicanP…,Indican Pictures,"$5,210 ","$3,090 ",2
+558,Intersection,IndicanP…,Indican Pictures,"$5,116 ","$1,940 ",2
+559,The Texture of Falling,SelfDist…,Self Distributed,"$5,010 ",$676 ,1
+560,The Long Dumb Road,Universal,Universal Studio,"$4,667 ","$4,667 ",1
+561,Kangaroo,Abramoram…,Abramorama Films,"$4,547 ","$2,282 ",2
+562,Kickboxer: Retaliation,WellGoUSA,Well Go USA,"$4,537 ","$3,061 ",10
+563,Weightless,Paladin,Paladin,"$4,461 ","$2,515 ",3
+564,Stella's Last Weekend,Paladin,Paladin,"$4,215 ","$2,375 ",4
+565,The Party's Just Beginning,TheOrchard,The Orchard,"$4,145 ","$2,770 ",10
+566,The Citizen,ArtMattan…,Art Mattan Films,"$3,901 ",$0 ,1
+567,The Second Time Around,FirstRun…,First Run Features,"$3,837 ","$1,600 ",1
+568,La Familia,FilmMove…,Film Movement,"$3,696 ","$2,030 ",2
+569,Under the Wire,Abramoram…,Abramorama Films,"$3,429 ","$2,271 ",2
+570,Marvin ou la belle éducation,MongrelM…,Mongrel Media,"$3,420 ",$0 ,1
+571,The Cage Fighter,IFCFilms,IFC Films,"$3,392 ","$1,204 ",2
+572,Over the Limit,FilmMove…,Film Movement,"$3,243 ",$0 ,2
+573,Hot to Trot,FirstRun…,First Run Features,"$3,133 ","$3,133 ",1
+574,Nelly,CinemaLibre,Cinema Libre,"$3,046 ","$1,304 ",2
+575,An L.A. Minute,Strand,Strand,"$2,791 ","$2,791 ",3
+576,Nana,FirstRun…,First Run Features,"$2,784 ","$1,240 ",1
+577,Straight Into a Storm,Abramoram…,Abramorama Films,"$2,684 ","$1,964 ",1
+578,12 jours,DistribF…,Distrib Films,"$2,633 ",$923 ,2
+579,ACORN and the Firestorm,FirstRun…,First Run Features,"$2,621 ","$2,621 ",1
+580,Here Comes the Grump,BlueFox…,Blue Fox Entertainment,"$2,150 ","$1,593 ",10
+581,West of the Jordan River,KinoLorber,Kino Lorber,"$1,926 ","$1,047 ",1
+582,The Lost Village,FirstRun…,First Run Features,"$1,780 ",$840 ,1
+583,El Pacto,SonyPict…,Sony Pictures,"$1,453 ","$1,453 ",10
+584,That Way Madness Lies,FirstRun…,First Run Features,"$1,447 ",$579 ,2
+585,El Secreto de Marrowbone,MagnetPi…,Magnet Pictures,"$1,377 ",$624 ,7
+586,Beauty & the Beholder,ReelOne…,Reel One Entertainment,"$1,368 ","$1,352 ",1
+587,Invisible Hands,FirstRun…,First Run Features,"$1,034 ",$456 ,1
+588,TVTV: Video Revolutionaries,FirstRun…,First Run Features,$812 ,$556 ,1
+589,Billionaire Boys Club,Vertical…,Vertical Entertainment,$618 ,$618 ,10
+590,Higher Power,MagnetPi…,Magnet Pictures,$528 ,$299 ,3
+591,Mobile Homes,MongrelM…,Mongrel Media,$449 ,$449 ,1
