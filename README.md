@@ -8,3 +8,7 @@ Analyze the Domestic Box Office over the last 10 years by utilizing python for w
 3. What studio has made the most movies?
 4. What was the highest grossing year?
 5. What movie made the most in their opening weekend?
+
+
+##Interesting Findings
+Only 17 studios have made a movie every single year since 2010.
