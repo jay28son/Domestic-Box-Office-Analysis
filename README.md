@@ -9,6 +9,12 @@ Analyze the Domestic Box Office over the last 10 years by utilizing python for w
 4. What was the highest grossing year?
 5. What movie made the most in their opening weekend?
 
+![Example of Dirty Data](https://user-images.githubusercontent.com/100823027/192124433-5dd5c57f-616a-4a3b-bf80-837ebffad2ce.PNG)
+![Example of Missing Data](https://user-images.githubusercontent.com/100823027/192124437-2c1e65a0-835b-422a-a357-8343169eb254.PNG)
 
-##Interesting Findings
+
+![Total Domestic Box Office Earnings Per Year](https://user-images.githubusercontent.com/100823027/192124430-6fa24fda-68ca-4d05-b3df-e979b5e1a53d.PNG)
+
+
+## Interesting Findings
 Only 17 studios have made a movie every single year since 2010.
