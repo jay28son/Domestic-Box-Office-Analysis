@@ -9,10 +9,11 @@ Analyze the Domestic Box Office over the last 10 years by utilizing python for w
 4. What was the highest grossing year?
 5. What movie made the most in their opening weekend?
 
+## Example Of Dirty Data
 ![Example of Dirty Data](https://user-images.githubusercontent.com/100823027/192124433-5dd5c57f-616a-4a3b-bf80-837ebffad2ce.PNG)
+## Example of Missing Data
 ![Example of Missing Data](https://user-images.githubusercontent.com/100823027/192124437-2c1e65a0-835b-422a-a357-8343169eb254.PNG)
-
-
+## Total Domestic Box Office Earnings Per Year
 ![Total Domestic Box Office Earnings Per Year](https://user-images.githubusercontent.com/100823027/192124430-6fa24fda-68ca-4d05-b3df-e979b5e1a53d.PNG)
 
 
