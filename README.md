@@ -1,4 +1,4 @@
-# Domestic Box Office Analysis (In Progress)
+# Domestic Box Office Analysis (In Progress) 
 ## Overview 
 Analyze the Domestic Box Office over the last 10 years by utilizing python for web scraping and data analysis, Excel for data cleaning and formatting, and Tableau Public for visualization.  
 
